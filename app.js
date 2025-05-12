@@ -7,6 +7,7 @@ const morgan = require("morgan");
 const cors = require("cors");
 require("dotenv").config();
 
+require("./passport.config"); // Import the passport configuration
 const authRouter = require("./routes/auth");
 const User = require("./models/user");
 
@@ -14,10 +15,14 @@ const PORT = process.env.PORT || 8080;
 const DB_HOST = process.env.DB_HOST || "localhost";
 const SESSION_SECRET = process.env.SESSION_SECRET || "secret";
 
-const app = express();
-app.use(cors());
-app.use(morgan("dev"));
-app.use(express.json());
+const app = express(); // Create an Express application
+
+// Middleware setup
+app.use(cors()); // Enable CORS for all routes
+app.use(morgan("dev")); // Log HTTP requests to the console
+app.use(express.static("public")); // Serve static files from the "public" directory
+app.use(express.urlencoded({ extended: true })); // Parse URL-encoded bodies
+app.use(express.json()); // Parse JSON bodies
 
 //Session setup
 app.use(
@@ -32,43 +37,26 @@ app.use(
 app.use(passport.initialize());
 app.use(passport.session());
 
-// === Passport Local Strategy ===
-passport.use(
-  new LocalStrategy(
-    { usernameField: "email", passwordField: "password" }, // Use email instead of username
-    async (email, password, done) => {
-      try {
-        const user = await User.findOne({ email });
-        if (!user) return done(null, false, { message: "User not found" });
-
-        const isMatch = password === user.password; // Replace with a proper password hashing method. For example, use bcrypt to compare hashed passwords
-        if (!isMatch)
-          return done(null, false, { message: "Incorrect password" });
-
-        return done(null, user);
-      } catch (err) {
-        return done(err);
-      }
-    }
-  )
-);
-
-// Passport cookie setup
-passport.serializeUser((user, done) => done(null, user._id));
-passport.deserializeUser(async (id, done) => {
-  try {
-    const user = await User.findById(id);
-    done(null, user);
-  } catch (err) {
-    done(err);
-  }
-});
-
+// Base route (for testing purposes)
 app.get("/", (req, res) => {
   res.send("Hello World!");
 });
+
+// Auth routes (using the auth router)
 app.use("/auth", authRouter);
 
+// Protected Route (for testing purposes)
+app.get("/dashboard", (req, res) => {
+  console.log(req.user);
+
+  if (req.isAuthenticated()) {
+    res.send(`Welcome ${req.user.username}`);
+  } else {
+    res.status(401).send("Unauthorized");
+  }
+});
+
+// MongoDB connection and server start. Check if environment variables are set at your .env file
 mongoose
   .connect(DB_HOST)
   .then(() => {

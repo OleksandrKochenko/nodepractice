@@ -2,17 +2,15 @@ const passport = require("passport");
 const User = require("../models/user");
 const router = require("express").Router();
 
+// Auth base route (For testing purposes)
 router.get("/", (req, res) => {
   res.send("Auth route");
 });
 
-router.get("/google", (req, res) => {
-  res.send("Google Auth route");
-});
-
-// Register
+// Routes for authentication using local strategy
+// Register route
 router.post("/register", async (req, res) => {
-  const { username, email, password } = req.body;
+  const { username, email, password, googleId = "" } = req.body;
   try {
     // Check if user already exists
     const existingUser = await User.findOne({ email });
@@ -20,14 +18,14 @@ router.post("/register", async (req, res) => {
       return res.status(400).send("User already exists");
     }
     // Hash password later using bcrypt
-    const user = new User({ username, password, email });
+    const user = new User({ username, password, email, googleId });
     await user.save();
     res.status(201).send("User registered", user);
   } catch (err) {
     res.status(400).send("Error: " + err.message);
   }
 });
-
+// Login route
 router.post("/login", (req, res, next) => {
   passport.authenticate("local", (err, user, info) => {
     if (err) {
@@ -51,20 +49,33 @@ router.post("/login", (req, res, next) => {
   })(req, res, next);
 });
 
-router.get("/login", (req, res) => {
-  res.send("Login page");
-});
-
-// Protected Route
-router.get("/dashboard", (req, res) => {
-  if (req.isAuthenticated()) {
-    res.send(`Welcome ${req.user.username}`);
-  } else {
-    res.status(401).send("Unauthorized");
+// Routes for authentication using OAuth strategy
+// Google Auth route
+router.get(
+  "/google",
+  passport.authenticate("google", {
+    scope: ["profile", "email"],
+  })
+);
+router.get(
+  "/google/callback",
+  passport.authenticate("google", {
+    failureRedirect: "/auth/login",
+  }),
+  (req, res) => {
+    // Explicitly log in the user to update the session
+    req.logIn(req.user, (err) => {
+      if (err) {
+        console.error("Error logging in after Google authentication:", err);
+        return res.status(500).send("An error occurred during login");
+      }
+      // Successful authentication, redirect to dashboard or send a response
+      res.redirect("/dashboard");
+    });
   }
-});
+);
 
-// Logout
+// Logout route
 router.post("/logout", (req, res) => {
   req.logout(() => {
     res.send("Logged out");
