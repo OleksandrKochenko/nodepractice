@@ -16,6 +16,7 @@ router.get("/categories", async (req, res, next) => {
     next(error);
   }
 });
+
 router.get("/products", async (req, res, next) => {
   try {
     const products = await Product.find()
@@ -38,6 +39,22 @@ router.get("/products", async (req, res, next) => {
     next(error);
   }
 });
+
+router.post(
+  "/products",
+  // add validateBody middleware here
+  async (req, res, next) => {
+    try {
+      const newProduct = new Product(req.body);
+      await newProduct.save();
+      res.status(201).json(newProduct);
+    } catch (error) {
+      console.error("Error creating product:", error);
+      next(error);
+    }
+  }
+);
+
 router.get("/ingredients", async (req, res, next) => {
   try {
     const ingredients = await Ingredient.find();
