@@ -10,6 +10,11 @@ const userSchema = new Schema(
         return !this.googleId; // Require password only if googleId is not present
       },
     },
+    role: {
+      type: String,
+      enum: ["admin", "user"],
+      default: "user",
+    },
     googleId: { type: String },
   },
   { versionKey: false, timestamps: true }
