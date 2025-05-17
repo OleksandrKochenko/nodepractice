@@ -1,0 +1,62 @@
+[
+  {
+    "name": {
+      "en": "Perogies",
+      "ua": "Вареники"
+    }
+  },
+  {
+    "name": {
+      "en": "Dumplings (pelmeni)",
+      "ua": "Пельмені"
+    }
+  },
+  {
+    "name": {
+      "en": "Pancakes & Crepes",
+      "ua": "Сирники та млинці"
+    }
+  },
+  {
+    "name": {
+      "en": "Chebureki",
+      "ua": "Чебуреки"
+    }
+  },
+  {
+    "name": {
+      "en": "Hashbrowns & Zrazes",
+      "ua": "Деруни та зрази"
+    }
+  },
+  {
+    "name": {
+      "en": "Sausage",
+      "ua": "Ковбаси"
+    }
+  },
+  {
+    "name": {
+      "en": "Cutlets & meatballs",
+      "ua": "Котлети та фрикадельки"
+    }
+  },
+  {
+    "name": {
+      "en": "Cabbage rolls and stuffed peppers",
+      "ua": "Голубці та перець"
+    }
+  },
+  {
+    "name": {
+      "en": "Corn dog, donuts, pancakes",
+      "ua": "Корн доги, донатси, панкейки"
+    }
+  },
+  {
+    "name": {
+      "en": "Other",
+      "ua": "Інше"
+    }
+  }
+]

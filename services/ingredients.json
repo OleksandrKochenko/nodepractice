@@ -1,0 +1,466 @@
+[
+  {
+    "en": "\"Bryndza\" cheese",
+    "ua": "сир \"Бринза\""
+  },
+  {
+    "en": "*may contain mustard",
+    "ua": "*може містити гірчицю"
+  },
+  {
+    "en": "*may contain pits",
+    "ua": "*може містити кісточки"
+  },
+  {
+    "en": "apple vinegar",
+    "ua": "оцет яблучний"
+  },
+  {
+    "en": "apples",
+    "ua": "яблука"
+  },
+  {
+    "en": "bacon",
+    "ua": "грудинка свинна"
+  },
+  {
+    "en": "baking powder",
+    "ua": "розпушувач"
+  },
+  {
+    "en": "baking soda",
+    "ua": "сода харчова"
+  },
+  {
+    "en": "banana",
+    "ua": "банан"
+  },
+  {
+    "en": "bay leaves",
+    "ua": "лавровий лист сухий"
+  },
+  {
+    "en": "beet",
+    "ua": "буряк"
+  },
+  {
+    "en": "beet juice",
+    "ua": "сік буряка"
+  },
+  {
+    "en": "bell pepper",
+    "ua": "перець болгарський"
+  },
+  {
+    "en": "blueberry",
+    "ua": "ягоди лохини"
+  },
+  {
+    "en": "bread crumbs",
+    "ua": "сухарі панірувальні пшеничні"
+  },
+  {
+    "en": "buckwheat",
+    "ua": "крупа гречана варена"
+  },
+  {
+    "en": "butter",
+    "ua": "масло вершкове"
+  },
+  {
+    "en": "cabbage",
+    "ua": "капуста"
+  },
+  {
+    "en": "cacao",
+    "ua": "какао-порошок"
+  },
+  {
+    "en": "carrot",
+    "ua": "морква"
+  },
+  {
+    "en": "carrot juice",
+    "ua": "сік моркви"
+  },
+  {
+    "en": "carry powder",
+    "ua": "куркума"
+  },
+  {
+    "en": "Cheddar cheese",
+    "ua": "сир «Чеддер»"
+  },
+  {
+    "en": "chicken breast",
+    "ua": "філе куряче"
+  },
+  {
+    "en": "chicken eggs",
+    "ua": "яйця курячі"
+  },
+  {
+    "en": "chicken fillets",
+    "ua": "куряче філе"
+  },
+  {
+    "en": "chocolate glaze",
+    "ua": "помадка шоколадна"
+  },
+  {
+    "en": "cinnamon",
+    "ua": "кориця"
+  },
+  {
+    "en": "condensed milk",
+    "ua": "молоко згущене біле"
+  },
+  {
+    "en": "corn crumbs",
+    "ua": "крупа кукурудзяна панірувальна"
+  },
+  {
+    "en": "corn flakes",
+    "ua": "кукурудзяні пластівці"
+  },
+  {
+    "en": "corn flour",
+    "ua": "борошно кукурудзяне"
+  },
+  {
+    "en": "corn starch",
+    "ua": "крохмаль кукурудзяний"
+  },
+  {
+    "en": "cottage cheese",
+    "ua": "сир кисломолочний"
+  },
+  {
+    "en": "cream cheese",
+    "ua": "крем-сир"
+  },
+  {
+    "en": "cream cheese Philadelphia",
+    "ua": "крем-сир Філадельфія"
+  },
+  {
+    "en": "dark chocolate",
+    "ua": "шоколад темний термостабільний"
+  },
+  {
+    "en": "decor: chocolate crunch, sublimation raspberry, and confectionery",
+    "ua": "декор: малина сублімована суха, шоколадні кранч кульки та посипка"
+  },
+  {
+    "en": "dried ground wild mushrooms",
+    "ua": "гриби білі сушені"
+  },
+  {
+    "en": "drinking water",
+    "ua": "вода питна"
+  },
+  {
+    "en": "ground dried garlic",
+    "ua": "часник сушений мелений"
+  },
+  {
+    "en": "eggs",
+    "ua": "яйця"
+  },
+  {
+    "en": "eggs yolks",
+    "ua": "яйця курячі жовток"
+  },
+  {
+    "en": "fat",
+    "ua": "сало свинне"
+  },
+  {
+    "en": "argentina fish fillet",
+    "ua": "філе риби Аргентини"
+  },
+  {
+    "en": "tilapia fish fillet",
+    "ua": "філе риби Тилапія"
+  },
+  {
+    "en": "fish spice",
+    "ua": "приправа рибна"
+  },
+  {
+    "en": "fresh dill",
+    "ua": "кріп свіжий"
+  },
+  {
+    "en": "fresh herbs",
+    "ua": "зелень свіжа"
+  },
+  {
+    "en": "fried carrots",
+    "ua": "морква смажена"
+  },
+  {
+    "en": "fried mushrooms",
+    "ua": "гриби печериці смажені"
+  },
+  {
+    "en": "fried onions",
+    "ua": "цибуля смажена"
+  },
+  {
+    "en": "frozen sour cherries",
+    "ua": "вишня швидкозаморожена"
+  },
+  {
+    "en": "gellan gum E418",
+    "ua": "камідь геланова Е418"
+  },
+  {
+    "en": "Greek yogurt",
+    "ua": "йогурт грецький"
+  },
+  {
+    "en": "green cabbage",
+    "ua": "капуста білокачанна варена"
+  },
+  {
+    "en": "ground black pepper",
+    "ua": "перець чорний мелений"
+  },
+  {
+    "en": "ground chicken thighs",
+    "ua": "філе куряче з стегна"
+  },
+  {
+    "en": "ground turkey",
+    "ua": "м'ясо індика"
+  },
+  {
+    "en": "ham",
+    "ua": "шинка копчена"
+  },
+  {
+    "en": "instant coffee",
+    "ua": "паста з кави"
+  },
+  {
+    "en": "lean ground beef",
+    "ua": "яловичина знежилована вищого гатунку"
+  },
+  {
+    "en": "lean ground chicken",
+    "ua": "курка знежилована"
+  },
+  {
+    "en": "lean ground pork",
+    "ua": "свинина знежилована напівжирна"
+  },
+  {
+    "en": "lean ground veal",
+    "ua": "телятина знежилована вищого гатунку"
+  },
+  {
+    "en": "lean pork",
+    "ua": "свинина знежилована напівжирна варена"
+  },
+  {
+    "en": "lemon",
+    "ua": "лимон цедра"
+  },
+  {
+    "en": "liver pork heart",
+    "ua": "лівер серце свинне"
+  },
+  {
+    "en": "lungs",
+    "ua": "легені свинні"
+  },
+  {
+    "en": "Mackerel",
+    "ua": "скумбрія"
+  },
+  {
+    "en": "mango butter",
+    "ua": "паста манго"
+  },
+  {
+    "en": "mayonnaise",
+    "ua": "майонез"
+  },
+  {
+    "en": "mayonnaise sauce",
+    "ua": "соус майонезний"
+  },
+  {
+    "en": "milk",
+    "ua": "молоко коров'яче"
+  },
+  {
+    "en": "mozzarella cheese",
+    "ua": "сир Моцарелла"
+  },
+  {
+    "en": "mushrooms",
+    "ua": "гриби "
+  },
+  {
+    "en": "mustard",
+    "ua": "гірчиця"
+  },
+  {
+    "en": "mustard sauce",
+    "ua": "соус гірчичний"
+  },
+  {
+    "en": "mustard seed",
+    "ua": "гірчиця в зернах"
+  },
+  {
+    "en": "nutmeg muscade",
+    "ua": "горіх мускатний мелений"
+  },
+  {
+    "en": "onion",
+    "ua": "цибуля ріпчаста"
+  },
+  {
+    "en": "parsley",
+    "ua": "петрушка свіжа"
+  },
+  {
+    "en": "poppy seeds",
+    "ua": "мак"
+  },
+  {
+    "en": "pork lard",
+    "ua": "сало свинне"
+  },
+  {
+    "en": "potato starch",
+    "ua": "крохмаль картопляний"
+  },
+  {
+    "en": "potatoes",
+    "ua": "картопля"
+  },
+  {
+    "en": "quail eggs",
+    "ua": "перепелині яйця"
+  },
+  {
+    "en": "raisins",
+    "ua": "родзинки"
+  },
+  {
+    "en": "red pepper",
+    "ua": "перець червоний мелений"
+  },
+  {
+    "en": "refined sunflower oil",
+    "ua": "олія соняшникова рафінована"
+  },
+  {
+    "en": "rice",
+    "ua": "крупа рисова варена"
+  },
+  {
+    "en": "salmon fillet",
+    "ua": "філе лосося"
+  },
+  {
+    "en": "salt",
+    "ua": "сіль кухонна"
+  },
+  {
+    "en": "sauerkraut",
+    "ua": "капуста квашена"
+  },
+  {
+    "en": "sausage casing",
+    "ua": "оболонка натуральна"
+  },
+  {
+    "en": "sour cherry",
+    "ua": "пюре з вишні"
+  },
+  {
+    "en": "spices",
+    "ua": "суміш спецій"
+  },
+  {
+    "en": "spinach",
+    "ua": "шпинат"
+  },
+  {
+    "en": "spinach juice",
+    "ua": "сік шпинату"
+  },
+  {
+    "en": "strawberry",
+    "ua": "ягоди полуниці швидкозаморожені"
+  },
+  {
+    "en": "strawberry glaze",
+    "ua": "помадка полунична"
+  },
+  {
+    "en": "sublimation raspberry",
+    "ua": "декор: малина сублімована суха"
+  },
+  {
+    "en": "suneli spice",
+    "ua": "спеція уцхо-сунелі"
+  },
+  {
+    "en": "tomato",
+    "ua": "помідори"
+  },
+  {
+    "en": "tomato sauce",
+    "ua": "томатна паста"
+  },
+  {
+    "en": "tomatoes",
+    "ua": "томати свіжі"
+  },
+  {
+    "en": "turkey",
+    "ua": "м'ясо індика"
+  },
+  {
+    "en": "vanilla sugar",
+    "ua": "цукор ванільний"
+  },
+  {
+    "en": "vinegar",
+    "ua": "оцет"
+  },
+  {
+    "en": "water",
+    "ua": "вода"
+  },
+  {
+    "en": "wheat flour",
+    "ua": "борошно пшеничне вищого ґатунку"
+  },
+  {
+    "en": "whipping cream",
+    "ua": "вершки ультрапастеризовані"
+  },
+  {
+    "en": "white bread",
+    "ua": "батон пшеничний"
+  },
+  {
+    "en": "white chocolate glaze",
+    "ua": "помадка білий шоколад"
+  },
+  {
+    "en": "white sugar",
+    "ua": "цукор білий кристалічний"
+  },
+  {
+    "en": "yogurt",
+    "ua": "йогурт"
+  }
+]

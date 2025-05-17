@@ -1,0 +1,2186 @@
+[
+  {
+    "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+    "categoryName": {
+      "en": "Perogies",
+      "ua": "Вареники"
+    },
+    "products": [
+      {
+        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "productId": "61d1f85e-b67c-4cf9-8ce8-41acff725317",
+        "productName": {
+          "en": "Sauerkraut and  wild mushrooms perogies VEGA",
+          "ua": "Вареники з капустою та білими грибами VEGA"
+        },
+        "ingredients": {
+          "en": "wheat flour, sauerkraut,water, mushrooms, fried onions, fried carrot, dried ground wild mushrooms, refined sunflower oil, salt, ground black pepper.",
+          "ua": "картопля варена, борошно пшеничне вищого гатунку,  вода питна, гриби печериці смажені, цибуля ріпчаста смажена, гриби білі сушені, олія соняшникова рафінована, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "DSC_0488_2_bxhgzx",
+        "productImg": "DSC_0488_2",
+        "vega": true,
+        "show": true,
+        "variants": [
+          {
+            "qty": "28-30 pcs",
+            "price": "22.99",
+            "weight": "700"
+          },
+          {
+            "qty": "46-48 pcs",
+            "price": "35.99",
+            "weight": "1100"
+          }
+        ]
+      },
+      {
+        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "productId": "7ad408f2-3571-4152-9347-4831d92dff09",
+        "productName": {
+          "en": "Spinach and cottage cheese perogies",
+          "ua": "Вареники з шпинатом та солоним сиром"
+        },
+        "ingredients": {
+          "en": "wheat flour, cottage cheese, water, spinach, eggs, fresh dill and persley, refined sunflower oil, salt.",
+          "ua": "сир кисломолочний борошно пшеничне вищого гатунку, вода питна, шпинат, яйця курячі, кріп свіжий, петрушка свіжа, олія соняшникова рафінована, сіль кухонна. "
+        },
+        "productImgCDN": "DSC_8033_bnndbw",
+        "productImg": "DSC_8033",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "30-32 pcs",
+            "price": "22.49",
+            "weight": "700"
+          }
+        ]
+      },
+      {
+        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "productId": "2b6d9bde-85a9-4078-b93f-9c31268a2570",
+        "productName": {
+          "en": "Cottage cheese perogies",
+          "ua": "Вареники з солоним сиром"
+        },
+        "ingredients": {
+          "en": "wheat flour, cottage cheese, water, eggs, fresh dill and parsley, refined sunflower oil, salt.",
+          "ua": "сир кисломолочний, борошно пшеничне вищого гатунку,  вода питна, яйця курячі, кріп свіжий, петрушка свіжа, олія соняшникова рафінована, сіль кухонна. "
+        },
+        "productImgCDN": "DSC_5656_ypcqqj",
+        "productImg": "DSC_5656",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "32-34 pcs",
+            "price": "22.49",
+            "weight": "700"
+          }
+        ]
+      },
+      {
+        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "productId": "8429bcb0-57eb-45c5-aacb-8b009099f6f2",
+        "productName": {
+          "en": "Sweet cottage cheese perogies",
+          "ua": "Вареники з солодким сиром"
+        },
+        "ingredients": {
+          "en": "wheat flour, cottage cheese, water, white sugar, eggs, vanilla sugar, refined sunflower oil, and salt.",
+          "ua": "сир кисломолочний, борошно пшеничне вищого гатунку, вода питна, цукор білий кристалічний, яйця курячі, цукор ванільний, олія соняшникова рафінована, сіль кухонна."
+        },
+        "productImgCDN": "DSC_8100_raf7xh",
+        "productImg": "DSC_8100",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "32-34 pcs",
+            "price": "22.49",
+            "weight": "700"
+          }
+        ]
+      },
+      {
+        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "productId": "243e3fd1-ce61-4ec1-93b3-d95b67a47d55",
+        "productName": {
+          "en": "Sour cherry perogies VEGA",
+          "ua": "Вареники з вишнею VEGA"
+        },
+        "ingredients": {
+          "en": "wheat flour, frozen sour cherries, water, white sugar, refined sunflower oil, and salt. *may contain pits",
+          "ua": "борошно пшеничне вищого гатунку, вишня швидкозаморожена*, вода питна, олія соняшникова рафінована, цукор білий кристалічний, сіль кухонна.\n*може містити кісточки "
+        },
+        "productImgCDN": "DSC_8054_mmhdrw",
+        "productImg": "DSC_8054",
+        "vega": true,
+        "show": true,
+        "variants": [
+          {
+            "qty": "36-38 pcs",
+            "price": "26.49",
+            "weight": "700"
+          },
+          {
+            "qty": "58-60 pcs ",
+            "price": "40.99",
+            "weight": "1100"
+          }
+        ]
+      },
+      {
+        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "productId": "cbb8992f-809a-45cb-bfa5-cf278974e926",
+        "productName": {
+          "en": "Blueberry perogies VEGA",
+          "ua": "Вареники з лохиною VEGA"
+        },
+        "ingredients": {
+          "en": "wheat flour, frozen blueberry, water, white sugar, refined sunflower oil, salt.",
+          "ua": "борошно пшеничне вищого гатунку, ягода лохини, вода питна, цукор білий кристалічний, пюре з вишні, олія соняшникова рафінована, сіль кухонна. "
+        },
+        "productImgCDN": "DSC_6229_uk07ex",
+        "productImg": "DSC_6229",
+        "vega": true,
+        "show": true,
+        "variants": [
+          {
+            "qty": "32-34 pcs",
+            "price": "26.49",
+            "weight": "700"
+          }
+        ]
+      },
+      {
+        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "productId": "2531969e-1c37-41a8-9422-6e1c719f059e",
+        "productName": {
+          "en": "Meat perogies",
+          "ua": "Вареники з м’ясом "
+        },
+        "ingredients": {
+          "en": "wheat flour, lean ground pork, pork lard, water, fried onions, salt, ground black pepper.",
+          "ua": "борошно пшеничне вищого гатунку, свинина знежилована напівжирна варена, вода питна, сало свинне, цибуля ріпчаста смажена, олія соняшникова рафінована, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "perigies_meat_veotoe",
+        "productImg": "perigies_meat",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "30-32 pcs",
+            "price": "21.49",
+            "weight": "700"
+          }
+        ]
+      },
+      {
+        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "productId": "c9b97297-cf7a-44f6-87a1-86eaccfb53b1",
+        "productName": {
+          "en": "Liver perogies",
+          "ua": "Вареники з лівером"
+        },
+        "ingredients": {
+          "en": "wheat flour, liver (pork heart, lungs, fat), water, fried onions, refined sunflower oil, salt, ground black pepper.",
+          "ua": "борошно пшеничне вищого гатунку, лівер (серце свинне, легені свинні,  сало свинне), вода питна, цибуля ріпчаста смажена, олія соняшникова рафінована, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "liver_perogies_zizhwr",
+        "productImg": "liver_perogies",
+        "vega": false,
+        "show": false,
+        "variants": [
+          {
+            "qty": "30-32 pcs",
+            "price": "21.49",
+            "weight": "700"
+          }
+        ]
+      },
+      {
+        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "productId": "9ab16702-0fc4-4ea5-afb1-b4881133aa91",
+        "productName": {
+          "en": "Potato perogies",
+          "ua": "Вареники з картоплею VEGA"
+        },
+        "ingredients": {
+          "en": "wheat flour, potatoes, water, fried onions, refined sunflower oil, salt, ground black pepper.",
+          "ua": "картопля варена, борошно пшеничне вищого гатунку, вода питна, цибуля ріпчаста смажена, олія соняшникова рафінована, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "potato_perogies_zqot9w",
+        "productImg": "potato_perogies",
+        "vega": true,
+        "show": true,
+        "variants": [
+          {
+            "qty": "32-34 pcs",
+            "price": "16.99",
+            "weight": "700"
+          }
+        ]
+      },
+      {
+        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "productId": "5adaed06-256d-4464-b8e5-1408a7f951aa",
+        "productName": {
+          "en": "Potato and bacon perogies",
+          "ua": "Вареники з картоплею та шкваркою"
+        },
+        "ingredients": {
+          "en": "wheat flour, potatoes, water, bacon, fried onions, refined sunflower oil, salt, ground black pepper.",
+          "ua": "картопля варена, борошно пшеничне вищого гатунку, вода питна, грудинка свинна, цибуля смажена,  олія соняшникова рафінована, сіль кухонна. "
+        },
+        "productImgCDN": "perogies_bacon_j2drgy",
+        "productImg": "perogies_bacon",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "30-32 pcs",
+            "price": "21.49",
+            "weight": "700"
+          },
+          {
+            "qty": "46-48 pcs",
+            "price": "32.99",
+            "weight": "1100"
+          }
+        ]
+      },
+      {
+        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "productId": "29a10fae-47e3-463f-97eb-afa4b696d02f",
+        "productName": {
+          "en": "Potato and butter perogies",
+          "ua": "Вареники з картоплею та маслом"
+        },
+        "ingredients": {
+          "en": "wheat flour, potatoes, water, butter, refined sunflower oil, salt, ground black pepper.",
+          "ua": "картопля варена,  борошно пшеничне вищого гатунку,  вода, масло вершкове, олія соняшникова рафінована, сіль кухонна."
+        },
+        "productImgCDN": "perogies_with_butter_hdlcal",
+        "productImg": "perogies_with_butter",
+        "vega": false,
+        "show": false,
+        "variants": []
+      },
+      {
+        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "productId": "cddde6a1-025e-45c5-85a2-9e5a6c71744e",
+        "productName": {
+          "en": "Potato and cottage cheese perogies",
+          "ua": "Вареники з картоплею та сиром"
+        },
+        "ingredients": {
+          "en": "wheat flour, potatoes, water, cottage cheese, refined sunflower oil, salt, ground black pepper.",
+          "ua": "борошно пшеничне вищого гатунку, картопля варена,  сир кисломолочний, вода питна, олія соняшникова рафінована, сіль кухонна. "
+        },
+        "productImgCDN": "perogies_poatto_cottage_cheese_dbmebn",
+        "productImg": "perogies_poatto_cottage_cheese",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "30-32 pcs",
+            "price": "21.49",
+            "weight": "700"
+          },
+          {
+            "qty": "50-52 pcs",
+            "price": "30.49",
+            "weight": "1100"
+          }
+        ]
+      },
+      {
+        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "productId": "a76dd4d1-f480-46b7-8885-c860020efcab",
+        "productName": {
+          "en": "Potato and mushrooms perogies",
+          "ua": "Вареники з картоплею та грибами VEGA"
+        },
+        "ingredients": {
+          "en": "wheat flour, potatoes, water, mushrooms, fried onions, refined sunflower oil, salt, ground black pepper.",
+          "ua": "картопля варена, борошно пшеничне вищого гатунку, вода питна, гриби печериці смажені, цибуля ріпчаста смажена, олія соняшникова рафінована, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "perigies_with_wild_mushroom_y95ceq",
+        "productImg": "perigies_with_mushroom",
+        "vega": true,
+        "show": true,
+        "variants": [
+          {
+            "qty": "30-32 pcs",
+            "price": "21.49",
+            "weight": "700"
+          },
+          {
+            "qty": "48-50 pcs",
+            "price": "32.99",
+            "weight": "1100"
+          }
+        ]
+      },
+      {
+        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "productId": "24a3b58d-5c4d-4674-adf2-7d2be88214ad",
+        "productName": {
+          "en": "Potato and wild mushrooms perogies",
+          "ua": "Вареники з картоплею та білими грибами VEGA"
+        },
+        "ingredients": {
+          "en": "wheat flour, potatoes, water, mushroom, fried onions, dried ground wild mushrooms, refined sunflower oil, salt, ground black pepper.",
+          "ua": "картопля варена, борошно пшеничне вищого гатунку,  вода питна, гриби печериці смажені, цибуля ріпчаста смажена, гриби білі сушені, олія соняшникова рафінована, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "perogies_with_mushroom1_ycdmms",
+        "productImg": "perogies_with_mushroom1",
+        "vega": true,
+        "show": true,
+        "variants": [
+          {
+            "qty": "30-32 pcs",
+            "price": "21.49",
+            "weight": "700"
+          },
+          {
+            "qty": "48-50 pcs",
+            "price": "32.99",
+            "weight": "1100"
+          }
+        ]
+      },
+      {
+        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "productId": "911042d8-d471-400c-85cb-ebcd726bc451",
+        "productName": {
+          "en": "Potato with cheddar cheese",
+          "ua": "Вареники з сиром чедер"
+        },
+        "ingredients": {
+          "en": "wheat flour, potatoes, cheddar cheese, water, dry garlic, table salt,vegetable oil\nSunflower is refined.\"\"",
+          "ua": "картопля варена, борошно пшеничне вищого ґатунку, сир чеддер, вода питна, сухий часник, сіль кухонна, олія\nсоняшникова рафінована."
+        },
+        "productImgCDN": "photo_2025-03-12_03-39-59_a0ytvh",
+        "productImg": "",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "32-34 pcs",
+            "price": "19.99",
+            "weight": "700"
+          },
+          {
+            "qty": "52-54 pcs",
+            "price": "30.49",
+            "weight": "1100"
+          }
+        ]
+      },
+      {
+        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "productId": "6287ea65-b07c-4f2d-9fef-17f11a803aec",
+        "productName": {
+          "en": "Sauerkraut perogies VEGA",
+          "ua": "Вареники з капустою VEGA"
+        },
+        "ingredients": {
+          "en": "wheat flour, sauerkraut, water, fried carrots, fried onions, refined sunflower oil, salt, ground black pepper.",
+          "ua": "капуста квашена, борошно пшеничне вищого гатунку, вода питна, цибуля ріпчаста смажена, морква смажена, олія соняшникова рафінована, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "cabbage_perogies_mlji1a",
+        "productImg": "cabbage_perogies",
+        "vega": true,
+        "show": true,
+        "variants": [
+          {
+            "qty": "34-36 pcs",
+            "price": "22.99",
+            "weight": "700"
+          },
+          {
+            "qty": "50-52 pcs",
+            "price": "35.99",
+            "weight": "1100"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
+    "categoryName": {
+      "en": "Dumplings (pelmeni)",
+      "ua": "Пельмені"
+    },
+    "products": [
+      {
+        "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
+        "productId": "d36006e0-f738-4c51-baba-a7e94ba9f285",
+        "productName": {
+          "en": "Pork dumplings (pelmeni)",
+          "ua": "Пельмені зі свининою"
+        },
+        "ingredients": {
+          "en": "wheat flour, lean ground pork, pork lard, water, onions, refined sunflower oil, salt, ground black pepper.",
+          "ua": "свинина знежилована напівжирна,  борошно пшеничне вищого гатунку,  вода питна, цибуля ріпчаста,  сало свинне, олія соняшникова рафінована, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "pelmeni_h7ujfw",
+        "productImg": "pelmeni",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "60-62 pcs",
+            "price": "20.99",
+            "weight": "700"
+          },
+          {
+            "qty": "92-94 pcs",
+            "price": "31.99",
+            "weight": "1100"
+          }
+        ]
+      },
+      {
+        "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
+        "productId": "7655040d-c095-4c27-bc0b-56a9be32442c",
+        "productName": {
+          "en": "Pork and beef dumplings (pelmeni)",
+          "ua": "Пельмені зі свининою та яловичиною"
+        },
+        "ingredients": {
+          "en": "wheat flour, lean ground pork, lean ground beef, pork lard, water, onions, refined sunflower oil, salt, ground black pepper.",
+          "ua": "борошно пшеничне вищого гатунку, вода питна, яловичина знежилована вищого гатунку, свинина знежилована напівжирна,  сало свинне, цибуля ріпчаста, олія соняшникова рафінована, сіль кухонна, перець чорний мелений."
+        },
+        "productImgCDN": "Just_pelmeni2_ifw2ps",
+        "productImg": "Just_pelmeni2",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "60-62 pcs",
+            "price": "22.49",
+            "weight": "700"
+          },
+          {
+            "qty": "92-94 pcs",
+            "price": "34.99",
+            "weight": "1100"
+          }
+        ]
+      },
+      {
+        "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
+        "productId": "25b2392b-54fb-480e-bf77-8bc9ec97225b",
+        "productName": {
+          "en": "Veal dumplings (pelmeni)",
+          "ua": "Пельмені з телятиною"
+        },
+        "ingredients": {
+          "en": "wheat flour, lean ground veal, water, onions, refined sunflower oil, salt, ground black pepper.",
+          "ua": "телятина знежилована вищого гатунку, борошно пшеничне вищого гатунку,  вода питна, цибуля ріпчаста, олія соняшникова рафінована, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "pelmeni_veal_lewpvp",
+        "productImg": "pelmeni_veal",
+        "vega": false,
+        "show": true,
+        "variants": []
+      },
+      {
+        "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
+        "productId": "a56c88df-bc2d-44a6-99ad-5595d43c8ea3",
+        "productName": {
+          "en": "Chicken and pork dumplings (pelmeni)",
+          "ua": "Пельмені курячі зі свининою"
+        },
+        "ingredients": {
+          "en": "wheat flour, chicken breast, lean ground pork, pork lard, water, onions, refined sunflower oil, salt, ground black pepper.",
+          "ua": "борошно пшеничне вищого гатунку, вода питна, філе куряче, свинина знежилована напівжирна, сало свинне, цибуля ріпчаста, олія соняшникова рафінована, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "P1510083_vvfr7w",
+        "productImg": "P1510083",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "52-54 pcs",
+            "price": "21.49",
+            "weight": "700"
+          },
+          {
+            "qty": "84-86 pcs",
+            "price": "32.99",
+            "weight": "1100"
+          }
+        ]
+      },
+      {
+        "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
+        "productId": "3f299024-7d20-4648-bf42-35697e41c686",
+        "productName": {
+          "en": "Corn-flour chicken dumplings (pelmeni)",
+          "ua": "Пельмені з куркою на кукурудзяному борошні"
+        },
+        "ingredients": {
+          "en": "wheat flour, lean ground chicken, pork lard, water, corn flour, onions, refined sunflower oil, salt, ground black pepper.",
+          "ua": "борошно пшеничне вищого ґатунку, курка знежилована, вода питна, борошно кукурудзяне, сало свинне,  цибуля ріпчаста,  олія соняшникова рафінована, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "2_klymho",
+        "productImg": "2",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "52-54 pcs",
+            "price": "27.99",
+            "weight": "700"
+          },
+          {
+            "qty": "84-86 pcs",
+            "price": "42.99",
+            "weight": "1100"
+          }
+        ]
+      },
+      {
+        "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
+        "productId": "acb1bde9-8467-45fd-bbb9-7ef792687da6",
+        "productName": {
+          "en": "Kids' chicken dumplings (pelmeni)",
+          "ua": "Пельмені Дитячі з куркою"
+        },
+        "ingredients": {
+          "en": "wheat flour, chicken breast, beet juice, carrot juice, spinach juice, drinking water, onions, refined sunflower oil, salt.",
+          "ua": "філе куряче, борошно пшеничне вищого гатунку, сік буряка, сік моркви, сік шпинату, вода питна, цибуля ріпчаста, олія соняшникова рафінована, сіль кухонна."
+        },
+        "productImgCDN": "children_pelmeni_pgaopz",
+        "productImg": "children_pelmeni",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "60-62 pcs",
+            "price": "27.99",
+            "weight": "700"
+          },
+          {
+            "qty": "92-94 pcs",
+            "price": "42.99",
+            "weight": "1100"
+          }
+        ]
+      },
+      {
+        "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
+        "productId": "9fc531c2-b810-4a71-8c00-83dd8e698d27",
+        "productName": {
+          "en": "Turkey dumplings (pelmeni)",
+          "ua": "Пельмені з індичкою"
+        },
+        "ingredients": {
+          "en": "wheat flour, ground turkey, water, onions, refined sunflower oil, salt, ground black pepper.",
+          "ua": "м'ясо індика, борошно пшеничне вищого сорту, вода питна, цибуля ріпчаста, олія соняшникова рафінована, сіль кухонна, перець чорний мелений."
+        },
+        "productImgCDN": "P1500687_mtgdwe",
+        "productImg": "P1500687",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "64-66 pcs",
+            "price": "29.99",
+            "weight": "700"
+          },
+          {
+            "qty": "96-98 pcs",
+            "price": "45.99",
+            "weight": "1100"
+          }
+        ]
+      },
+      {
+        "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
+        "productId": "35901a40-d5db-4a27-beec-018f20e7d70b",
+        "productName": {
+          "en": "Three Meats dumplings (pelmeni)",
+          "ua": "Пельмені \"Три м’яса\""
+        },
+        "ingredients": {
+          "en": "wheat flour, ground chicken thighs, lean ground pork, lean ground beef, pork lard, water, onions, refined sunflower oil, fresh dill, salt, ground black pepper.",
+          "ua": "борошно пшеничне вищого гатунку, вода питна, свинина знежилована напівжирна, яловичина знежилована вищого гатунку, філе куряче з стегна,  сало свинне, цибуля ріпчаста, олія соняшникова рафінована, кріп свіжий, сіль кухонна, перець чорний мелений."
+        },
+        "productImgCDN": "DSC_6336_roj20g",
+        "productImg": "DSC_6336",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "48-50 pcs",
+            "price": "23.49",
+            "weight": "700"
+          },
+          {
+            "qty": "74-76 pcs",
+            "price": "35.49",
+            "weight": "1100"
+          }
+        ]
+      },
+      {
+        "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
+        "productId": "11ea7870-7322-4c54-8fb1-6f3d5496aded",
+        "productName": {
+          "en": "Salmon and cottage cheese dumplings (pelmeni)",
+          "ua": "Пельмені з лососем та сиром"
+        },
+        "ingredients": {
+          "en": "wheat flour, salmon fillet, cottage cheese, water, refined sunflower oil, fresh dill, salt, ground black pepper.",
+          "ua": "борошно пшеничне вищого гатунку, філе лосося охолоджене, сир кисломолочний, вода питна, олія соняшникова рафінована, кріп свіжий, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "sch3_gqqvsx",
+        "productImg": "sch3",
+        "vega": false,
+        "show": false,
+        "variants": [
+          {
+            "qty": "54-56 pcs",
+            "price": "44.99",
+            "weight": "700"
+          }
+        ]
+      },
+      {
+        "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
+        "productId": "7800bee5-83d0-4c44-aeca-390ac7493282",
+        "productName": {
+          "en": "Salmon and spinach dumplings (pelmeni)",
+          "ua": "Пельмені з лососем та шпинатом"
+        },
+        "ingredients": {
+          "en": "wheat flour, salmon fillet, spinach, water, refined sunflower oil, salt, ground black pepper.",
+          "ua": "борошно пшеничне вищого гатунку, філе лосося охолоджене,  вода питна, шпинат, олія соняшникова рафінована, сіль кухонна, перець чорний мелений."
+        },
+        "productImgCDN": "ssh1_eus7ho",
+        "productImg": "ssh1",
+        "vega": false,
+        "show": false,
+        "variants": [
+          {
+            "qty": "54-56 pcs",
+            "price": "42.99",
+            "weight": "700"
+          }
+        ]
+      },
+      {
+        "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
+        "productId": "ed94d77c-190a-4266-9d46-500ae6ef4b10",
+        "productName": {
+          "en": "Fish dumplings (pelmeni) (lent dish)",
+          "ua": "Пельмені з рибою (пісні)"
+        },
+        "ingredients": {
+          "en": "wheat flour, fish fillet, water, onions, salt, ground black pepper.",
+          "ua": "борошно пшеничне вищого гатунку, філе риби Аргентини, вода питна, цибуля ріпчаста, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "Fish_dumplings_a1oywd",
+        "productImg": "Fish_dumplings",
+        "vega": false,
+        "show": false,
+        "variants": []
+      },
+      {
+        "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
+        "productId": "a807422f-4866-4e94-90ed-889da70ad8b6",
+        "productName": {
+          "en": "Pork khinkali",
+          "ua": "Хінкалі зі свининою"
+        },
+        "ingredients": {
+          "en": "wheat flour, lean ground pork, pork lard, water, onions, fresh herbs, potato starch, suneli spice, salt, ground black and red pepper.",
+          "ua": "борошно пшеничне вищого гатунку, свинина знежилована напівжирна, вода питна, сало свинне,  цибуля ріпчаста, зелень свіжа, крохмаль картопляний, сіль кухонна, перець чорний мелений, перець червоний мелений, спеція уцхо-сунелі. "
+        },
+        "productImgCDN": "DSC_8076_xk4eps",
+        "productImg": "DSC_8076",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "8 pcs",
+            "price": "13.99",
+            "weight": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+    "categoryName": {
+      "en": "Pancakes & Crepes",
+      "ua": "Сирники та млинці"
+    },
+    "products": [
+      {
+        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "productId": "bc7afde6-8c31-4757-b551-07402af4684c",
+        "productName": {
+          "en": "Syrnyky (cottage cheese pancakes)",
+          "ua": "Сирники"
+        },
+        "ingredients": {
+          "en": "cottage cheese, wheat flour, white sugar, eggs (yolks), vanilla sugar.",
+          "ua": "сир кисломолочний, борошно пшеничне вищого гатунку, цукор білий кристалічний, яйця курячі (жовток), цукор ванільний. "
+        },
+        "productImgCDN": "DSC_6376_werdot",
+        "productImg": "DSC_6376",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "8 pcs",
+            "price": "15.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "productId": "afe0d65a-511c-43fa-8cee-9fba1e38eaeb",
+        "productName": {
+          "en": "Syrnyky (cottage cheese pancakes) with raisins",
+          "ua": "Сирники з родзинками"
+        },
+        "ingredients": {
+          "en": "cottage cheese, raisins, wheat flour, white sugar, eggs (yolks), salt.",
+          "ua": "сир кисломолочний, родзинки, борошно пшеничне вищого ґатунку,  цукор білий кристалічний, яйця курячі (жовток), цукор ванільний, сіль кухонна. "
+        },
+        "productImgCDN": "DSC_7623_nsxvib",
+        "productImg": "DSC_7623",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "8 pcs",
+            "price": "15.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "productId": "569e437f-dfb2-4434-bc37-ddcc05fb0745",
+        "productName": {
+          "en": "Meat Crepes",
+          "ua": "Млинці з м’ясом"
+        },
+        "ingredients": {
+          "en": "milk, lean ground pork, wheat flour, pork lard, fried onions, butter, eggs, water, salt, white sugar, and ground black pepper.",
+          "ua": "молоко коров'яче, свинина знежилована напівжирна варена, борошно пшеничне вищого гатунку, сало свинне,  цибуля ріпчаста смажена, масло вершкове, яйця курячі, вода питна, цукор білий кристалічний, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "DSC_7692_tn50ki",
+        "productImg": "DSC_7692",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "6 pcs",
+            "price": "12.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "productId": "7d71b06e-01c0-4b8a-925b-f86e9aa5bd55",
+        "productName": {
+          "en": "Chicken and mushroom crepes",
+          "ua": "Млинці з куркою та грибами"
+        },
+        "ingredients": {
+          "en": "milk, wheat flour, chicken breast, fried mushrooms, fried onions, butter, eggs, water, salt, white sugar, and ground black pepper.",
+          "ua": "молоко коров'яче, борошно пшеничне вищого гатунку, куряче філе варене, гриби печериці смажені, масло вершкове, яйця курячі, вода питна, цибуля ріпчаста смажена,  цукор білий кристалічний, сіль кухонна, перець чорний мелений."
+        },
+        "productImgCDN": "DSC_7725_eamlox",
+        "productImg": "DSC_7725",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "6 pcs",
+            "price": "16.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "productId": "348c8252-7b94-4f59-8e03-c11ef9d870a3",
+        "productName": {
+          "en": "Liver crepes",
+          "ua": "Млинці з лівером"
+        },
+        "ingredients": {
+          "en": "milk, liver (pork heart, lungs, fat), wheat flour, pork lard, fried onions, butter, eggs, water, refined sunflower oil, salt, white sugar, ground black pepper.",
+          "ua": "молоко коров'яче, лівер (серце свинне, легені свинні), борошно пшеничне вищого гатунку, сало свинне, цибуля ріпчаста смажена, масло вершкове, яйця курячі,  вода питна, цибуля ріпчаста, олія соняшникова рафінована, цукор білий кристалічний, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "DSC_7677_vhchyg",
+        "productImg": "DSC_7677",
+        "vega": false,
+        "show": false,
+        "variants": []
+      },
+      {
+        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "productId": "97b3a171-e085-43fd-9160-322b3406a164",
+        "productName": {
+          "en": "Ham and mozzarella cheese crepes",
+          "ua": "Млинці з шинкою та сиром моццарелла"
+        },
+        "ingredients": {
+          "en": "milk, ham, wheat flour, mozzarella cheese, mayonnaise sauce, whipping cream, eggs, butter, water, salt, white sugar, mustard sauce, apple vinegar, fresh dill.",
+          "ua": "молоко коров'яче,  шинка копчена, борошно пшеничне вищого гатунку, сир  «Чеддер»,   соус майонезний, вершки ультрапастеризовані, яйця курячі, масло вершкове, вода питна, соус гірчичний,  цукор білий кристалічний, оцет яблучний, кріп свіжий, сіль кухонна. "
+        },
+        "productImgCDN": "ham_and_cheese_wcatxl",
+        "productImg": "ham_and_cheese",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "4 pcs",
+            "price": "15.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "productId": "672d4c8b-5401-49eb-90a5-77f98fb1a5ab",
+        "productName": {
+          "en": "Salmon and spinach crepes",
+          "ua": "Млинці з лососем та шпинатом"
+        },
+        "ingredients": {
+          "en": "milk, salmon fillets, wheat flour, spinach, butter, chicken eggs, water, salt, white sugar.",
+          "ua": "молоко коров'яче, філе лосося, борошно пшеничне вищого гатунку, шпинат, масло вершкове, яйця курячі, вода питна, цукор білий кристалічний, сіль кухонна. "
+        },
+        "productImgCDN": "DSC_5453_qejgrb",
+        "productImg": "DSC_5453",
+        "vega": false,
+        "show": false,
+        "variants": []
+      },
+      {
+        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "productId": "5366558e-631d-4355-8689-eb7e9f26be17",
+        "productName": {
+          "en": "Salmon and cottage cheese crepes",
+          "ua": "Млинці з лососем та сиром"
+        },
+        "ingredients": {
+          "en": "milk, salmon fillets, wheat flour, cottage cheese, butter, eggs, water, fresh dill, salt, and white sugar.",
+          "ua": "молоко коров'яче, філе лосося, борошно пшеничне вищого гатунку,  сир кисломолочний, масло вершкове, яйця курячі, вода питна, кріп свіжий,  цукор білий кристалічний, сіль кухонна. "
+        },
+        "productImgCDN": "salmon_cheesw_crepes_pjpfan",
+        "productImg": "salmon_cheesw_crepes",
+        "vega": false,
+        "show": false,
+        "variants": []
+      },
+      {
+        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "productId": "60164de0-7860-4a2f-b028-84755e6e3200",
+        "productName": {
+          "en": "Bryndza cheese and fresh herbs crepes",
+          "ua": "Млинці з бринзою та зеленю"
+        },
+        "ingredients": {
+          "en": "milk, \"bryndza\" cheese, wheat flour, butter, eggs, drinking water, fresh dill and parsley, ground dried garlic, salt, white sugar, and ground black pepper.",
+          "ua": "молоко коров'яче, сир \"Бринза\", борошно пшеничне вищого гатунку, масло вершкове,  яйця курячі, кріп свіжий, петрушка свіжа, часник сушений, вода питна, цукор білий кристалічний, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "DSC_7708_iuqczx",
+        "productImg": "DSC_7708",
+        "vega": false,
+        "show": false,
+        "variants": []
+      },
+      {
+        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "productId": "c0553ed7-8d20-4f28-8f05-912fedc2b718",
+        "productName": {
+          "en": "Spinach and cream cheese crepes",
+          "ua": "Млинці з шпинатом та крем сиром"
+        },
+        "ingredients": {
+          "en": "milk, cream cheese, wheat flour, spinach, butter, eggs, water, salt, white sugar.",
+          "ua": "молоко коров'яче, крем-сир,  борошно пшеничне вищого гатунку, шпинат,  масло вершкове, яйця курячі, вода питна, цукор білий кристалічний, сіль кухонна. "
+        },
+        "productImgCDN": "spinach_and_cheese_crepes_su23ql",
+        "productImg": "spinach_and_cheese_crepes",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "6 pcs",
+            "price": "16.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "productId": "3c1cc3c4-6c59-49ae-a75b-69f48ae6e933",
+        "productName": {
+          "en": "Benderiki",
+          "ua": "Бендерики"
+        },
+        "ingredients": {
+          "en": "milk, lean ground pork, wheat flour, pork lard, onions, water, butter, eggs, salt, white sugar, and ground black pepper.",
+          "ua": "молоко коров'яче, свинина знежилована напівжирна, борошно пшеничне вищого гатунку, сало свинне, цибуля ріпчаста, вода питна, масло вершкове, яйця курячі, цукор білий кристалічний, сіль кухонна, перець чорний мелений."
+        },
+        "productImgCDN": "DSC_6702_jthnky",
+        "productImg": "DSC_6702",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "4 pcs",
+            "price": "9.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "productId": "99faf933-d23f-4696-bc7b-3e0fbee4c191",
+        "productName": {
+          "en": "Sweet cottage cheese crepes",
+          "ua": "Млинці з солодким сиром"
+        },
+        "ingredients": {
+          "en": "milk, cottage cheese, wheat flour, white sugar, butter, eggs, water, salt, vanilla sugar.",
+          "ua": "молоко коров'яче, сир кисломолочний,  борошно пшеничне вищого гатунку,  цукор білий кристалічний, масло вершкове, яйця курячі, вода питна, цукор ванільний, сіль кухонна. "
+        },
+        "productImgCDN": "sweet_cheese_crepes_nwmise",
+        "productImg": "sweet_cheese_crepes",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "5 pcs",
+            "price": "16.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "productId": "76509377-3ddd-43c2-b110-2c49a1a9bc5b",
+        "productName": {
+          "en": "Cottage cheese and blueberry crepes",
+          "ua": "Млинці з сиром та лохиною"
+        },
+        "ingredients": {
+          "en": "milk, cottage cheese, wheat flour, blueberry, white sugar, butter, eggs, drinking water, salt, vanilla sugar.",
+          "ua": "молоко коров'яче, сир кисломолочний, борошно пшеничне вищого гатунку,   ягоди лохини швидкозаморожені, цукор білий кристалічний,  масло вершкове, яйця курячі, вода питна, сіль кухонна, цукор ванільний. "
+        },
+        "productImgCDN": "DSC_7563_x32tfn",
+        "productImg": "DSC_7563",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "5 pcs",
+            "price": "16.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "productId": "934372b0-4a06-4676-9cab-f64a184fe49e",
+        "productName": {
+          "en": "Cottage cheese and strawberry crepes",
+          "ua": "Млинці з сиром та полуницею"
+        },
+        "ingredients": {
+          "en": "milk, cottage cheese, wheat flour, strawberry, white sugar, butter, eggs, water, salt, and vanilla sugar.",
+          "ua": "молоко коров'яче, сир кисломолочний, борошно пшеничне вищого гатунку,  ягоди полуниці швидкозаморожені, цукор білий кристалічний,  масло вершкове, яйця курячі, вода питна, сіль кухонна, цукор ванільний. "
+        },
+        "productImgCDN": "DSC_7535_hfl4sm",
+        "productImg": "DSC_7535",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "5 pcs",
+            "price": "17.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "productId": "8c9ed949-1e73-4c61-a442-fc67d2e8e32a",
+        "productName": {
+          "en": "Poppy seeds and sour cherry crepes",
+          "ua": "Млинці з маком та вишнею"
+        },
+        "ingredients": {
+          "en": "milk, poppy seeds, wheat flour, sour cherry, white sugar, butter, eggs, drinking water, and salt. *may contain pits",
+          "ua": "молоко коров'яче, мак, борошно пшеничне вищого гатунку, вишня*, масло вершкове, цукор білий кристалічний, яйця курячі, вода питна, сіль кухонна.\n*може містити кісточки"
+        },
+        "productImgCDN": "DSC_7854_jgtddo",
+        "productImg": "DSC_7854",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "5 pcs",
+            "price": "16.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "productId": "5e32d07c-b37b-4e1d-9fdf-e11c4c94b90c",
+        "productName": {
+          "en": "Caramelized apple crepes",
+          "ua": "Млинці з карамелізованим яблуком"
+        },
+        "ingredients": {
+          "en": "milk, apple, wheat flour, white sugar, butter, eggs, water, salt, and cinnamon.",
+          "ua": "молоко коров'яче,  яблука, борошно пшеничне вищого гатунку,  масло вершкове, яйця курячі, вода питна, цукор білий кристалічний, кориця, сіль кухонна. "
+        },
+        "productImgCDN": "DSC_7634_zccxci",
+        "productImg": "DSC_7634",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "6 pcs",
+            "price": "14.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "productId": "963bcbbc-4f30-4385-a38e-d294104c53a2",
+        "productName": {
+          "en": "Banana and condensed milk crepes",
+          "ua": "Млинці з бананом та згущоним молоком"
+        },
+        "ingredients": {
+          "en": "milk, banana, wheat flour, condensed milk, white sugar, butter, eggs, drinking water, and salt.",
+          "ua": "молоко коров'яче,  банан, борошно пшеничне вищого гатунку, молоко згущене біле, масло вершкове, вода питна, яйця курячі, сіль кухонна, цукор."
+        },
+        "productImgCDN": "DSC_7839_rqfukz",
+        "productImg": "DSC_7839",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "6 pcs",
+            "price": "15.99",
+            "weight": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryId": "aec9cef2-6162-4415-995f-f51df7825c6c",
+    "categoryName": {
+      "en": "Chebureki",
+      "ua": "Чебуреки"
+    },
+    "products": [
+      {
+        "categoryId": "aec9cef2-6162-4415-995f-f51df7825c6c",
+        "productId": "260c090c-e16d-4a02-b39e-197216664f9a",
+        "productName": {
+          "en": "Pork chebureki",
+          "ua": "Чебуреки зі свининою"
+        },
+        "ingredients": {
+          "en": "wheat flour, lean ground pork, water, onions, pork lard, refined sunflower oil, vinegar, white sugar, salt, and ground black pepper.",
+          "ua": "борошно пшеничне вищого гатунку,  свинина знежилована напівжирна, вода питна, цибуля ріпчаста, сало свинне, олія соняшникова рафінована,  оцет, цукор білий кристалічний, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "DSC_7743_iqs5n1",
+        "productImg": "DSC_7743",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "4 pcs",
+            "price": "12.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "aec9cef2-6162-4415-995f-f51df7825c6c",
+        "productId": "efe4828a-ec1a-45be-9998-769a89a11f53",
+        "productName": {
+          "en": "Pork, mozzarella cheese and tomato chebureki",
+          "ua": "Чебуреки зі свининою з сиром та помідором"
+        },
+        "ingredients": {
+          "en": "wheat flour, water, lean ground pork, mozzarella cheese, tomato, onions, pork lard, refined sunflower oil, vinegar, white sugar, salt, ground black pepper.",
+          "ua": "борошно пшеничне вищого гатунку,  вода питна, свинина знежилована напівжирна, сир моцарелла, помідори, цибуля ріпчаста, сало свинне, олія соняшникова рафінована, оцет, сіль кухонна, цукор білий кристалічний, перець чорний мелений."
+        },
+        "productImgCDN": "cheddar_tomato_jnwij2",
+        "productImg": "cheddar_tomato",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "4 pcs",
+            "price": "13.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "aec9cef2-6162-4415-995f-f51df7825c6c",
+        "productId": "03e6bf8d-bcf2-46ea-9d47-f64b7da9ffdd",
+        "productName": {
+          "en": "Fish chebureki",
+          "ua": "Чебуреки з рибою"
+        },
+        "ingredients": {
+          "en": "wheat flour, fish fillets, water, onion, pork lard, refined sunflower oil, vinegar, white sugar, salt, and ground black pepper.",
+          "ua": "борошно пшеничне вищого гатунку, філе риби Аргентини, цибуля ріпчаста, сало свинне, вода питна,  олія соняшникова рафінована, оцет, сіль кухонна, цукор білий кристалічний, перець чорний мелений. "
+        },
+        "productImgCDN": "Fish_chebureki_exgys5",
+        "productImg": "Fish_chebureki",
+        "vega": false,
+        "show": false,
+        "variants": []
+      },
+      {
+        "categoryId": "aec9cef2-6162-4415-995f-f51df7825c6c",
+        "productId": "5f7119c3-4557-45f8-9f47-0faeb52bbd27",
+        "productName": {
+          "en": "Mozzarella/cottage cheese and fresh herbs chebureki",
+          "ua": "Чебуреки з сиром та зеленю"
+        },
+        "ingredients": {
+          "en": "wheat flour, cottage cheese, mozzarella cheese, water, refined sunflower oil, fresh dill and parsley, vinegar, white sugar, salt, and ground black pepper.",
+          "ua": "борошно пшеничне вищого гатунку, сир кисломолочний, сир «Чеддер», вода питна, олія соняшникова рафінована, оцет, кріп свіжий, петрушка свіжа, цукор білий кристалічний, сіль кухонна. "
+        },
+        "productImgCDN": "cheese_herbs_chebureki_lmjway",
+        "productImg": "cheese_herbs_chebureki",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "4 pcs",
+            "price": "14.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "aec9cef2-6162-4415-995f-f51df7825c6c",
+        "productId": "b282c233-9268-4347-9455-fb5b02576759",
+        "productName": {
+          "en": "Sauerkraut chebureki",
+          "ua": "Чебуреки з капустою VEGA"
+        },
+        "ingredients": {
+          "en": "wheat flour, sauerkraut, water, onions, refined sunflower oil, vinegar, salt, and ground black pepper.",
+          "ua": "борошно пшеничне вищого гатунку, капуста квашена тушкована, вода питна, цибуля ріпчаста, олія соняшникова рафінована,  оцет, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "cabbage_chebureki_mi4jks",
+        "productImg": "cabbage_chebureki",
+        "vega": true,
+        "show": true,
+        "variants": [
+          {
+            "qty": "4 pcs",
+            "price": "11.99",
+            "weight": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryId": "0bed5d0b-83d6-42da-8e2f-eb450d377ba7",
+    "categoryName": {
+      "en": "Hashbrowns & Zrazes",
+      "ua": "Деруни та зрази"
+    },
+    "products": [
+      {
+        "categoryId": "0bed5d0b-83d6-42da-8e2f-eb450d377ba7",
+        "productId": "a65ba49a-0fde-43e7-99d0-02fe8776d9a9",
+        "productName": {
+          "en": "Potato hashbrowns",
+          "ua": "Деруни"
+        },
+        "ingredients": {
+          "en": "potatoes, onion, wheat flour, eggs, mayonnaise, salt, and ground black pepper. *may contain mustard",
+          "ua": "картопля сира, цибуля ріпчаста, борошно пшеничне вищого гатунку, яйця курячі, майонез, сіль кухонна, перець чорний мелений. *може містити гірчицю"
+        },
+        "productImgCDN": "potato_hashbrowns_lqxdvi",
+        "productImg": "potato_hashbrowns",
+        "vega": false,
+        "show": true,
+        "variants": [{ "qty": "6 pcs", "price": "11.99", "weight": "" }]
+      },
+      {
+        "categoryId": "0bed5d0b-83d6-42da-8e2f-eb450d377ba7",
+        "productId": "4074125b-7ea0-417a-8a18-70dc6c1e0f2a",
+        "productName": {
+          "en": "Meat potato hashbrowns",
+          "ua": "Деруни з м’ясом"
+        },
+        "ingredients": {
+          "en": "potatoes, lean ground pork, onion, pork lard, wheat flour, eggs, mayonnaise, salt, and ground black pepper. *may contain mustard",
+          "ua": "картопля сира, свинина напівжирна знежилована,цибуля ріпчаста, сало свинне, борошно пшеничне вищого ґатунку, яйця курячі,  майонез,  сіль кухонна, перець чорний мелений.  *може містити гірчицю"
+        },
+        "productImgCDN": "meat_potato_hashbrowns_nmwszu",
+        "productImg": "meat_potato_hashbrowns",
+        "vega": false,
+        "show": true,
+        "variants": [{ "qty": "6 pcs", "price": "13.99", "weight": "" }]
+      },
+      {
+        "categoryId": "0bed5d0b-83d6-42da-8e2f-eb450d377ba7",
+        "productId": "a888a85c-92b9-47f9-855b-09cc6305572d",
+        "productName": {
+          "en": "Mushroom potato hashbrowns",
+          "ua": "Деруни з грибами"
+        },
+        "ingredients": {
+          "en": "potatoes, fried mushroom, onion, wheat flour, eggs, mayonnaise, salt, and ground black pepper. *may contain mustard",
+          "ua": "картопля сира, гриби шампіньйони смажені, цибуля ріпчаста, борошно пшеничне вищого гатунку,  яйця курячі, майонез, сіль кухонна, перець чорний мелений. *може містити гірчицю"
+        },
+        "productImgCDN": "mushroom_hashbrowns_tdw6lg",
+        "productImg": "mushroom_hashbrowns",
+        "vega": false,
+        "show": true,
+        "variants": [{ "qty": "6 pcs", "price": "14.99", "weight": "" }]
+      },
+      {
+        "categoryId": "0bed5d0b-83d6-42da-8e2f-eb450d377ba7",
+        "productId": "775c1747-2059-4798-8a7d-aa13d09fe65f",
+        "productName": {
+          "en": "Meat zrazes",
+          "ua": "Картопляні зрази з м’ясом"
+        },
+        "ingredients": {
+          "en": "potatoes, lean ground pork, premium wheat flour, pork lard, fried onion,  eggs, refined sunflower oil, salt, and ground black pepper.",
+          "ua": "картопля варена, свинина знежилована напівжирна варена, борошно пшеничне вищого гатунку, сало свинне, цибуля ріпчаста смажена, яйця курячі, олія соняшникова рафінована, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "DSC_6477_n9m0rs",
+        "productImg": "DSC_6477",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "6 pcs",
+            "price": "14.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "0bed5d0b-83d6-42da-8e2f-eb450d377ba7",
+        "productId": "8122e679-f46d-4fde-bb6a-15a69e50491a",
+        "productName": {
+          "en": "Liver zrazes",
+          "ua": "Картопляні зрази з лівером"
+        },
+        "ingredients": {
+          "en": "potatoes, liver (pork heart, lungs, fat), wheat flour, fried onion,  eggs, refined sunflower oil, salt, and ground black pepper.",
+          "ua": "картопля варена,  лівер (серце свинне, легені свині),  борошно пшеничне вищого гатунку, цибуля ріпчаста смажена, яйця курячі, олія соняшникова рафінована, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "DSC_6504_qgqsvr",
+        "productImg": "DSC_6504",
+        "vega": false,
+        "show": false,
+        "variants": [
+          {
+            "qty": "6 pcs",
+            "price": "15.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "0bed5d0b-83d6-42da-8e2f-eb450d377ba7",
+        "productId": "c6195d72-8d3d-446e-a85c-11c315f225a7",
+        "productName": {
+          "en": "Sauerkraut zrazes",
+          "ua": "Картопляні зрази з капустою"
+        },
+        "ingredients": {
+          "en": "potatoes, sauerkraut, wheat flour, eggs, fried onion, refined sunflower oil, salt, and ground black pepper.",
+          "ua": "картопля варена, капуста квашена, борошно пшеничне вищого гатунку, яйця курячі, цибуля ріпчаста смажена, олія соняшникова рафінована, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "DSC_6401_cnhz8m",
+        "productImg": "DSC_6401",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "6 pcs",
+            "price": "12.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "0bed5d0b-83d6-42da-8e2f-eb450d377ba7",
+        "productId": "4d8521ea-30d7-44b9-9b4e-266c4b1704f0",
+        "productName": {
+          "en": "Mushroom zrazes",
+          "ua": "Картопляні зрази з грибами"
+        },
+        "ingredients": {
+          "en": "potatoes, fried mushroom, wheat flour, fried onion, eggs, refined sunflower oil, salt, and ground black pepper.",
+          "ua": "картопля варена, гриби шампіньйони смажені, борошно пшеничне вищого гатунку, цибуля ріпчаста смажена, яйця курячі, олія соняшникова рафінована,  сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "DSC_6420_ullvmw",
+        "productImg": "DSC_6420",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "6 pcs",
+            "price": "16.99",
+            "weight": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryId": "07348748-0c02-4d45-ba45-3095abfacb53",
+    "categoryName": {
+      "en": "Sausage",
+      "ua": "Ковбаси"
+    },
+    "products": [
+      {
+        "categoryId": "07348748-0c02-4d45-ba45-3095abfacb53",
+        "productId": "ed38a1dd-13fc-44e9-ac32-bc51d4055f1d",
+        "productName": {
+          "en": "Home made sausage",
+          "ua": "Ковбаса домашня"
+        },
+        "ingredients": {
+          "en": "lean pork, pork lard, water, ground dried garlic, mustard seed, sausage casing, salt, and ground black pepper.",
+          "ua": "свинина знежилована напівжирна, сало свинне, вода питна, часник сушений, гірчиця в зернах,  оболонка натуральна, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "sausage_nq60ej",
+        "productImg": "sausage",
+        "vega": false,
+        "show": true,
+        "variants": []
+      },
+      {
+        "categoryId": "07348748-0c02-4d45-ba45-3095abfacb53",
+        "productId": "652e6c6e-fa4c-45dd-ad73-defd7ac7b1fa",
+        "productName": {
+          "en": "Pork sausage",
+          "ua": "Ковбаса зі свинини гриль"
+        },
+        "ingredients": {
+          "en": "lean pork, pork lard, water, ground dried garlic, sausage casing, salt, and ground black pepper.",
+          "ua": "свинина знежилована напівжирна, сало свинне, вода питна, часник сушений, оболонка натуральна, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "DSC_6669_xoo1ql",
+        "productImg": "DSC_6669",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "5 pcs",
+            "price": "16.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "07348748-0c02-4d45-ba45-3095abfacb53",
+        "productId": "9d31205b-a02e-4d5f-912a-04eae5ffad37",
+        "productName": {
+          "en": "Chicken and mozzarella cheese sausage",
+          "ua": "Ковбаса куряча з сиром гриль"
+        },
+        "ingredients": {
+          "en": "chicken fillets, pork lard, mozzarella cheese, water, ground dried garlic, sausage casing, salt, and ground black pepper.",
+          "ua": "куряче філе, сало свинне, сир «Чеддер», вода питна,  часник сушений, оболонка натуральна, сіль кухонна, перець чорний мелений."
+        },
+        "productImgCDN": "chicken_cheese_sausage_eftwzf",
+        "productImg": "chicken_cheese_sausage",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "5 pcs",
+            "price": "24.99",
+            "weight": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+    "categoryName": {
+      "en": "Cutlets & meatballs",
+      "ua": "Котлети та фрикадельки"
+    },
+    "products": [
+      {
+        "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+        "productId": "6f184f47-a821-4cc6-8883-7f22f6b3425f",
+        "productName": {
+          "en": "Pork cutlets",
+          "ua": "Котлети зі свинини"
+        },
+        "ingredients": {
+          "en": "lean ground pork, pork lard, white bread, water, bread crumbs, eggs, onions, salt, and ground black pepper.\n",
+          "ua": "свинина знежилована напівжирна, сало свинне, батон  пшеничний, вода питна, сухарі панірувальні пшеничні, яйця курячі, цибуля ріпчаста,   сіль кухонна, перець чорний мелений."
+        },
+        "productImgCDN": "DSC_6538_amcls3",
+        "productImg": "DSC_6538",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "5 pcs",
+            "price": "12.49",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+        "productId": "7fbe72d4-bd01-4c19-9584-ac089baa4c7f",
+        "productName": {
+          "en": "Pork and beef cutlets",
+          "ua": "Котлети зі свинини та яловичини"
+        },
+        "ingredients": {
+          "en": "lean ground pork, lean ground beef, pork lard, onion, white bread, water, bread crumbs, eggs, salt, and ground black pepper.",
+          "ua": "свинина знежилована напівжирна, яловичина  знежилована напівжирна, сало свинне,  цибуля ріпчаста, батон пшеничний, вода питна, яйця курячі, сухарі панірувальні пшеничні, сіль кухонна, перець чорний мелений."
+        },
+        "productImgCDN": "pork_beef_cutlets_bkqg1f",
+        "productImg": "pork_beef_cutlets",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "5 pcs",
+            "price": "13.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+        "productId": "43b66237-1578-43cb-aeb0-3ecb5cff32f2",
+        "productName": {
+          "en": "Chicken cutlets",
+          "ua": "Котлети курячі"
+        },
+        "ingredients": {
+          "en": "chicken breast, lean ground pork, pork lard, white bread, water, onion, bread crumbs, eggs, salt, ground black pepper.",
+          "ua": "філе куряче, свинина знежилована напівжирна, сало свинне, батон пшеничний, вода питна, цибуля ріпчаста, сухарі панірувальні пшеничні, яйця курячі, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "chicken_cutlets_qno3co",
+        "productImg": "chicken_cutlets",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "6 pcs",
+            "price": "14.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+        "productId": "c1393f15-e990-4b23-9998-ba2cb6c4ef21",
+        "productName": {
+          "en": "Cutlet «Cordon bleu»",
+          "ua": "Котлета «Кордон Блю»"
+        },
+        "ingredients": {
+          "en": "chicken breast, pork lard, mozzarella cheese, butter, white bread, bread crumbs, eggs, fresh dill and parsley, salt, and ground black pepper.",
+          "ua": "філе куряче, сало свине, сир моцарелла, масло вершкове, батон пшеничний, яйця курячі, сухарі панірувальні пшеничні, кріп свіжий, петрушка свіжа, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "DSC_6603_j0gckx",
+        "productImg": "DSC_6603",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "4 pcs",
+            "price": "25.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+        "productId": "221974a6-546f-40c0-b4b5-8401118919fb",
+        "productName": {
+          "en": "Cutlet «Turkey»",
+          "ua": "Котлета «Індича»"
+        },
+        "ingredients": {
+          "en": "turkey, white bread, water, onion, corn crumbs, eggs, salt, and ground black pepper.",
+          "ua": "м'ясо індика, батон пшеничний, вода питна,  цибуля ріпчаста, яйця курячі, крупа кукурудзяна панірувальна, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "turkey_cutlets_ibbvc9",
+        "productImg": "turkey_cutlets",
+        "vega": false,
+        "show": false,
+        "variants": [
+          {
+            "qty": "6 pcs",
+            "price": "24.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+        "productId": "c2ded8b3-f12b-49b5-8843-f5ba48ed504a",
+        "productName": {
+          "en": "Fish cutlets",
+          "ua": "Котлета рибні"
+        },
+        "ingredients": {
+          "en": "fish fillets, pork lard, white bread, water, onion, bread crumbs, eggs, salt, and ground black pepper.",
+          "ua": "філе риби Тілапія, сало свинне, батон пшеничний, цибуля ріпчаста, вода питна, яйця курячі, сухарі панірувальні пшеничні, сіль кухонна, перець чорний мелений."
+        },
+        "productImgCDN": "fish_cutlets_be1pkr",
+        "productImg": "fish_cutlets",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "6 pcs",
+            "price": "24.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+        "productId": "9c2e7919-6be2-42a6-b1da-ec77f67d6438",
+        "productName": {
+          "en": "Fish cutlets (lent dish)",
+          "ua": "Котлети рибні (до посту)"
+        },
+        "ingredients": {
+          "en": "fish fillets, white bread, water, onion, bread crumbs, salt, and ground black pepper.",
+          "ua": "філе риби Тілапія, батон пшеничний, вода питна, цибуля ріпчаста,  сухарі панірувальні пшеничні, сіль кухонна, перець чорний мелений."
+        },
+        "productImgCDN": "fish_cutlets_be1pkr",
+        "productImg": "",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "6 pcs",
+            "price": "25.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+        "productId": "9280fd3e-89c1-4eea-8d62-a233eeb6df91",
+        "productName": {
+          "en": "Burger patty",
+          "ua": "Бургерна котлета"
+        },
+        "ingredients": {
+          "en": "lean ground beef, pork lard, mustard, salt, and ground black pepper.",
+          "ua": "яловичина знежилована вищого гатунку, сало свинне, гірчиця, сіль кухонна, перець чорний мелений."
+        },
+        "productImgCDN": "burger_patty_alvwhy",
+        "productImg": "burger_patty",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "4 pcs",
+            "price": "21.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+        "productId": "4fe2eb5e-1ea6-4b1a-844b-93fb84472ebc",
+        "productName": {
+          "en": "Turkey burger patty",
+          "ua": "Бургерна котлета індича"
+        },
+        "ingredients": {
+          "en": "turkey, pork lard, mustard, salt, ground black pepper.",
+          "ua": "м'ясо індика, сало свинне, гірчиця, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "Turkey_burger_eyj9tj",
+        "productImg": "Turkey_burger",
+        "vega": false,
+        "show": false,
+        "variants": [
+          {
+            "qty": "4 pcs",
+            "price": "29.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+        "productId": "1ca85597-2b16-4e0e-be12-4e22550162f2",
+        "productName": {
+          "en": "Meatballs",
+          "ua": "Тефтелі"
+        },
+        "ingredients": {
+          "en": "lean ground pork, lean ground beef, rice, pork lard, onion, eggs, wheat flour, salt, and ground black pepper.",
+          "ua": "свинина знежилована напівжирна, яловичина знежилована вищого гатунку, крупа рисова варена, сало свинне, цибуля ріпчаста, яйця курячі, борошно пшеничне вищого гатунку, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "DSC_7788_qpv4v4",
+        "productImg": "DSC_7788",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "8 pcs",
+            "price": "12.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+        "productId": "68333802-e776-4cc8-9ca9-768d9b1a8e2a",
+        "productName": {
+          "en": "Kids' quail egg meatballs",
+          "ua": "Фрикадельки дитячі на перепелиних яйцях"
+        },
+        "ingredients": {
+          "en": "lean ground beef, onion, quail eggs, salt.",
+          "ua": "телятина знежилована вищого гатунку, цибуля ріпчаста, перепелині яйця, сіль кухонна. "
+        },
+        "productImgCDN": "Kids_meatballs_xsjrrj",
+        "productImg": "Kids_meatballs",
+        "vega": false,
+        "show": false,
+        "variants": []
+      },
+      {
+        "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+        "productId": "b2a3b1a6-68e0-40b4-859b-e1f450aac44d",
+        "productName": {
+          "en": "Meatballs «Turkey»",
+          "ua": "Фрикадельки ''Індичі'"
+        },
+        "ingredients": {
+          "en": "turkey, onion, salt.",
+          "ua": "м'ясо індика, цибуля ріпчаста, сіль кухонна."
+        },
+        "productImgCDN": "Turkey_meatballs_o8e5gh",
+        "productImg": "Turkey_meatballs",
+        "vega": false,
+        "show": true,
+        "variants": []
+      },
+      {
+        "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+        "productId": "92111f79-6387-46aa-9e13-bd637c451d53",
+        "productName": {
+          "en": "Meat buckwheat cutlets",
+          "ua": "Гречаники зі свининою"
+        },
+        "ingredients": {
+          "en": "lean ground pork, pork lard, buckwheat, bread crumbs, eggs, onion, salt, and ground black pepper.",
+          "ua": "свинина знежилована напівжирна , сало свинне, крупа гречана варена, сухарі панірувальні пшеничні, цибуля ріпчаста, яйця курячі,  сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "buckwheat_cutlets_fyiolw",
+        "productImg": "buckwheat_cutlets",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "6 pcs",
+            "price": "14.99",
+            "weight": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryId": "3cc0575a-e1c8-413c-870d-cafb5893d107",
+    "categoryName": {
+      "en": "Cabbage rolls and stuffed peppers",
+      "ua": "Голубці та перець"
+    },
+    "products": [
+      {
+        "categoryId": "3cc0575a-e1c8-413c-870d-cafb5893d107",
+        "productId": "b2d7e756-2ec7-47e7-b0f2-d28e466034e7",
+        "productName": {
+          "en": "Pork cabbage rolls",
+          "ua": "Голубці з свининою"
+        },
+        "ingredients": {
+          "en": "green cabbage, rice, lean ground pork, fried onion, fried carrot, refined sunflower oil, salt, and ground black pepper.",
+          "ua": "капуста білокачанна варена , крупа рисова варена, свинина знежилована напівжирна, цибуля ріпчаста смажена, морква смажена, олія соняшникова рафінована, сіль кухонна, перець чорний мелений."
+        },
+        "productImgCDN": "pork_cabbage_rolls_zpicqk",
+        "productImg": "pork_cabbage_rolls",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "1 pkg",
+            "price": "25.99",
+            "weight": "1000"
+          }
+        ]
+      },
+      {
+        "categoryId": "3cc0575a-e1c8-413c-870d-cafb5893d107",
+        "productId": "9b4be3b7-a5d3-4326-a442-995a25bdc5d3",
+        "productName": {
+          "en": "Beef cabbage rolls",
+          "ua": "Голубці з телятиною та яловичиною"
+        },
+        "ingredients": {
+          "en": "green cabbage, rice, lean ground beef,  fried onion, fried carrot, refined sunflower oil, salt, and ground black pepper.",
+          "ua": "капуста білокачанна варена, крупа рисова варена, яловичина знежилована вищого гатунку, телятина знежилована вищого гатунку,  цибуля ріпчаста смажена, морква смажена, олія соняшникова рафінована, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "veal_and_beef_cabbage_rolls_cvksyz",
+        "productImg": "veal_and_beef_cabbage_rolls",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "1 pkg",
+            "price": "29.99",
+            "weight": "1000"
+          }
+        ]
+      },
+      {
+        "categoryId": "3cc0575a-e1c8-413c-870d-cafb5893d107",
+        "productId": "5f64ab59-cb7a-42d0-a0a0-8e96a1777817",
+        "productName": {
+          "en": "Mushrooms cabbage rolls",
+          "ua": "Голубці з грибами"
+        },
+        "ingredients": {
+          "en": "rice, green cabbage, mushroom, onion, carrot, refined sunflower oil, salt, and ground black pepper.",
+          "ua": "крупа рисова варена,  капуста білокачанна варена, печериці смажені, цибуля ріпчаста смажена, морква смажена, олія соняшникова рафінована, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "mushroom_cabbage_rolls_u7ylbj",
+        "productImg": "mushroom_cabbage_rolls",
+        "vega": true,
+        "show": true,
+        "variants": [
+          {
+            "qty": "1 pkg",
+            "price": "26.99",
+            "weight": "1000"
+          }
+        ]
+      },
+      {
+        "categoryId": "3cc0575a-e1c8-413c-870d-cafb5893d107",
+        "productId": "8900b255-f6b2-490b-8854-edb2f19f73c8",
+        "productName": {
+          "en": "Pork stuffed peppers",
+          "ua": "Перець фарширований з м’ясом"
+        },
+        "ingredients": {
+          "en": "bell pepper, rice, lean ground pork, onion, carrot, refined sunflower oil, salt, and ground black pepper.",
+          "ua": "перець болгарський, крупа рисова відварена, свинина знежилована напівжирна, цибуля ріпчаста смажена, морква смажена, сало свинне, олія соняшникова рафінована, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "stuffed_peppers_uj71fn",
+        "productImg": "stuffed_peppers",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "2 pcs",
+            "price": "14.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "3cc0575a-e1c8-413c-870d-cafb5893d107",
+        "productId": "7df02154-921b-4335-94f6-7aed99a0248b",
+        "productName": {
+          "en": "Mushrooms stuffed peppers",
+          "ua": "Перець фарширований з грибами"
+        },
+        "ingredients": {
+          "en": "bell pepper, rice, mushroom, onion, carrot, refined sunflower oil, salt, and ground black pepper.",
+          "ua": "перець болгарський, крупа рисова відварена, печериці смажені,  цибуля ріпчаста смажена, морква смажена, олія соняшникова рафінована, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "mushroom_stuffed_peppers_rl2atz",
+        "productImg": "mushroom_stuffed_peppers",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "2 pcs",
+            "price": "14.99",
+            "weight": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryId": "67246e97-f888-4ff0-ad0d-a82c5064c7ee",
+    "categoryName": {
+      "en": "Corn dog, donuts, pancakes",
+      "ua": "Корн доги, донатси, панкейки"
+    },
+    "products": [
+      {
+        "categoryId": "67246e97-f888-4ff0-ad0d-a82c5064c7ee",
+        "productId": "6d5afc5a-bf4c-4b8c-80ca-110a21016fc5",
+        "productName": {
+          "en": "Corn dog with condensed milk",
+          "ua": "Корн дог зі згущеним молоком"
+        },
+        "ingredients": {
+          "en": "condensed milk, eggs, wheat flour, yogurt, butter, white sugar, baking soda, baking powder, instant coffee, and salt.",
+          "ua": "згущене молоко варене, яйця курячі,  борошно пшеничне вищого ґатунку, йогурт, масло вершкове, цукор білий кристалічний, сода харчова, розпушувач, паста з кави, сіль кухонна."
+        },
+        "productImgCDN": "corndog_scummed_milk_h_kyrj4r",
+        "productImg": "corndog_scummed_milk_h",
+        "vega": false,
+        "show": true,
+        "variants": []
+      },
+      {
+        "categoryId": "67246e97-f888-4ff0-ad0d-a82c5064c7ee",
+        "productId": "e8ccc693-f26d-45a2-b7fd-169f407d56b4",
+        "productName": {
+          "en": "Corn dog with apples",
+          "ua": "Корн дог зі яблуком"
+        },
+        "ingredients": {
+          "en": "apples, eggs, wheat flour, yogurt, butter, water, lemon, white sugar, mango butter, baking powder, baking soda, cinnamon, salt, gellan gum E418",
+          "ua": "яблука, яйця курячі, борошно пшеничне вищого ґатунку, йогурт, масло вершкове, вода питна, лимон (цедра), цукор білий кристалічний, розпушувач, паста манго, кориця, сода харчова, сіль кухонна, камідь геланова Е418."
+        },
+        "productImgCDN": "corndog_apple_h_go7caf",
+        "productImg": "corndog_apple_h",
+        "vega": false,
+        "show": true,
+        "variants": [{ "qty": "6 pcs", "price": "17.49", "weight": "" }]
+      },
+      {
+        "categoryId": "67246e97-f888-4ff0-ad0d-a82c5064c7ee",
+        "productId": "ec90fcb7-9f37-4d74-b00a-c62e71700252",
+        "productName": {
+          "en": "Chocolate corn dog",
+          "ua": "Корн дог з шоколадом"
+        },
+        "ingredients": {
+          "en": "eggs, wheat flour, yogurt, butter, dark chocolate, cacao, white sugar, baking powder, baking soda, and salt.",
+          "ua": "яйця курячі, борошно пшеничне вищого ґатунку, йогурт, масло вершкове, шоколад темний термостабільний, какао-порошок, цукор білий кристалічний, сода харчова, розпушувач, сіль кухонна."
+        },
+        "productImgCDN": "DSC_3248_sddpk2",
+        "productImg": "DSC_3248",
+        "vega": false,
+        "show": true,
+        "variants": [{ "qty": "6 pcs", "price": "15.99", "weight": "" }]
+      },
+      {
+        "categoryId": "67246e97-f888-4ff0-ad0d-a82c5064c7ee",
+        "productId": "c84c0c8f-3bdb-41bc-8e72-ac603cdc03b1",
+        "productName": {
+          "en": "Corn dog with ham and cheese",
+          "ua": "Корн дог з шинкою та сиром"
+        },
+        "ingredients": {
+          "en": "eggs, wheat flour, ham, tomatoes, mozzarella, cream cheese Philadelphia, yogurt, butter, mustard seed, white sugar, baking powder, baking soda, salt.",
+          "ua": "яйця курячі, борошно пшеничне вищого ґатунку, шинка свинна копчена, томати свіжі, сир моцарелла, крем-сир Філадельфія, йогурт, масло вершкове, гірчиця в зернах, цукор білий кристалічний, сода харчова, розпушувач, сіль кухонна."
+        },
+        "productImgCDN": "corndog_ham_cheese_h_l8vulv",
+        "productImg": "corndog_ham_cheese_h",
+        "vega": false,
+        "show": true,
+        "variants": [{ "qty": "6 pcs", "price": "16.99", "weight": "" }]
+      },
+      {
+        "categoryId": "67246e97-f888-4ff0-ad0d-a82c5064c7ee",
+        "productId": "0431ccef-7554-49f8-bc77-3262be4600b4",
+        "productName": {
+          "en": "Corn dog with sour cherry",
+          "ua": "Корн дог з вишнею"
+        },
+        "ingredients": {
+          "en": "frozen sour cherry, eggs, wheat flour, yogurt, butter, poppy seed, white sugar, lemon, baking powder, baking soda, salt, gellan gum E418",
+          "ua": "вишня свіжоморожена, борошно пшеничне вищого ґатунку, яйця курячі, йогурт, масло вершкове, цукор білий кристалічний, мак, лимон (цедра), розпушувач, сода харчова, сіль кухонна, камідь геланова Е418."
+        },
+        "productImgCDN": "corndog_cherry_h_gtjjn7",
+        "productImg": "corndog_cherry_h",
+        "vega": false,
+        "show": true,
+        "variants": [{ "qty": "6 pcs", "price": "16.99", "weight": "" }]
+      },
+      {
+        "categoryId": "67246e97-f888-4ff0-ad0d-a82c5064c7ee",
+        "productId": "509239bf-21da-4053-9f98-03a4b25f181d",
+        "productName": {
+          "en": "Donuts",
+          "ua": "Донатс асорті"
+        },
+        "ingredients": {
+          "en": "wheat flour, eggs, Greek yogurt, butter, white sugar, vanilla sugar, baking powder, baking soda, salt, chocolate glaze, white chocolate glaze, strawberry glaze, decor: chocolate crunch, sublimation raspberry, and confectionery.",
+          "ua": "борошно пшеничне вищого ґатунку, яйця курячі, йогурт грецький, масло вершкове, розпушувач, сіль кухонна, сода харчова, цукор білий кристалічний, цукор ванільний, помадка шоколадна, помадка білий шоколад, помадка полунична, декор: малина сублімована суха, шоколадні кранч кульки та посипка."
+        },
+        "productImgCDN": "DSC_5529_afrzrg",
+        "productImg": "DSC_5529",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "6 pcs",
+            "price": "12.99",
+            "weight": ""
+          }
+        ]
+      },
+      {
+        "categoryId": "67246e97-f888-4ff0-ad0d-a82c5064c7ee",
+        "productId": "96222314-1770-4c34-b03a-ae55d963bcac",
+        "productName": {
+          "en": "Pancakes",
+          "ua": "Панкейк американський"
+        },
+        "ingredients": {
+          "en": "wheat flour, milk, eggs, refined sunflower oil, white sugar, vanilla sugar, baking powder, and salt.",
+          "ua": "борошно пшеничне вищого ґатунку, молоко коров’яче, яйця курячі, олія соняшникова рафінована, розпушувач, цукор білий кристалічний, цукор ванільний, сіль кухонна"
+        },
+        "productImgCDN": "_MG_3534_eye3dy",
+        "productImg": "_MG_3534",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "8 pcs",
+            "price": "4.99",
+            "weight": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryId": "e470794f-d122-4b4c-bc36-90d57992b425",
+    "categoryName": {
+      "en": "Other",
+      "ua": "Інше"
+    },
+    "products": [
+      {
+        "categoryId": "e470794f-d122-4b4c-bc36-90d57992b425",
+        "productId": "27e0b404-ec0a-4c41-a9b6-f6d4295f47b4",
+        "productName": {
+          "en": "Stuffed Mackerel",
+          "ua": "Скумбрія фарширована"
+        },
+        "ingredients": {
+          "en": "Mackerel, carrot, onions, refined sunflower oil, spices, salt, and ground black pepper.",
+          "ua": "скумбрія, морква, цибуля, олія соняшникова рафінована, суміш спецій, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "stuffed_mackerel_v8ahnz",
+        "productImg": "stuffed_mackerel",
+        "vega": false,
+        "show": false,
+        "variants": []
+      },
+      {
+        "categoryId": "e470794f-d122-4b4c-bc36-90d57992b425",
+        "productId": "fa6cb2f2-33d1-4ceb-a4ab-b158238820a4",
+        "productName": {
+          "en": "Chicken nuggets",
+          "ua": "Курячі нагетси"
+        },
+        "ingredients": {
+          "en": "chicken breast, corn flakes, milk, wheat flour, eggs, corn starch, pepper, salt, and ground black pepper.",
+          "ua": "куряче філе, кукурудзяні пластівці, молоко коров'яче,  борошно пшеничне вищого гатунку (9%), яйця курячі, крохмаль картопляний,  паприка, сіль кухонна, перець червоний мелений. "
+        },
+        "productImgCDN": "DSC_6725_irmqyt",
+        "productImg": "DSC_6725",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "700 g",
+            "price": "26.49",
+            "weight": "700"
+          }
+        ]
+      },
+      {
+        "categoryId": "e470794f-d122-4b4c-bc36-90d57992b425",
+        "productId": "680efd1c-0227-493f-976f-e87854cb1cb9",
+        "productName": {
+          "en": "Fish nuggets",
+          "ua": "Рибні нагетси"
+        },
+        "ingredients": {
+          "en": "fish fillets, corn flakes, water, wheat flour, eggs, corn starch, fish spice, salt, ground black pepper.",
+          "ua": "філу Тілапії, кукурудзяні пластівціб вода питна, борошно пшеничне вищого гатунку, яйця курячі, сіль кухонна, приправа рибна, перець чорний мелений. "
+        },
+        "productImgCDN": "DSC_6641_xe9aje",
+        "productImg": "DSC_6641",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "500 g",
+            "price": "26.99",
+            "weight": "500"
+          }
+        ]
+      },
+      {
+        "categoryId": "e470794f-d122-4b4c-bc36-90d57992b425",
+        "productId": "308df3ed-a95a-4426-9334-c4b5a3e01ec6",
+        "productName": {
+          "en": "Potato croquettes",
+          "ua": "Крокети"
+        },
+        "ingredients": {
+          "en": "potatoes, bread crumbs, wheat flour, eggs, butter, fresh dill, ground dried garlic, nutmeg muscade, bay leaves, salt, and ground black pepper. \n",
+          "ua": "кортопля, сухарі панірувальні пшеничні, борошно пшеничне вищого гатунку, яйця курячі, масло вершкове, кріп свіжий,  лавровий лист сухий, горіх мускатний мелений, сіль кухонна, перець чорний мелений, часник сушений. "
+        },
+        "productImgCDN": "potato_croquettes_mnkzkz",
+        "productImg": "potato_croquettes",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "36-40 pcs",
+            "price": "21.49",
+            "weight": "700"
+          }
+        ]
+      },
+      {
+        "categoryId": "e470794f-d122-4b4c-bc36-90d57992b425",
+        "productId": "944030f4-514b-4bab-986a-2745612b35b2",
+        "productName": {
+          "en": "Cheese potato croquettes",
+          "ua": "Крокети з сиром"
+        },
+        "ingredients": {
+          "en": "potatoes, cheddar cheese, bread crumbs, wheat flour, eggs, ground dried garlic, salt, and ground black pepper. \n",
+          "ua": "картопля, сир твердий, сухарі панірувальні пшеничні, яйця курячі, борошно пшеничне вищого гатунку, сіль кухонна, перець чорний мелений, часник сушений. "
+        },
+        "productImgCDN": "cheese_croquettes_rlbhpk",
+        "productImg": "cheese_croquettes",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "36-40 pcs",
+            "price": "22.99",
+            "weight": "700"
+          }
+        ]
+      },
+      {
+        "categoryId": "e470794f-d122-4b4c-bc36-90d57992b425",
+        "productId": "2661fd4b-146e-4377-8177-01fa583935a0",
+        "productName": {
+          "en": "Cheese sticks",
+          "ua": "Сирні палички"
+        },
+        "ingredients": {
+          "en": "Cheddar cheese, bread crumbs, wheat flour, eggs, carry powder",
+          "ua": "сир Моцарелла, сухарі панірувальні пшеничні,  борошно пшеничне вищого ґатунку, яйця курячі, куркума. "
+        },
+        "productImgCDN": "cheese_sticks_ewqgb7",
+        "productImg": "cheese_sticks",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "16 pcs",
+            "price": "20.99",
+            "weight": "500"
+          }
+        ]
+      },
+      {
+        "categoryId": "e470794f-d122-4b4c-bc36-90d57992b425",
+        "productId": "3ff4aec2-1b1c-4253-aa4c-3a3571a4780f",
+        "productName": {
+          "en": "Meatball soup",
+          "ua": "Суп з фрикадельками"
+        },
+        "ingredients": {
+          "en": "potatoes, pork meatballs (lean ground pork,  eggs, salt, ground black pepper), carrot, onion, fresh dill and parsley.",
+          "ua": "картопля, фрикадельки з свинини (свинина знежилована напівжирна, яйця курячі, сіль кухонна, перець чорний мелений), морква, цибуля, кріп свіжий, петрушка свіжа."
+        },
+        "productImgCDN": "DSC_7954_rfwiq3",
+        "productImg": "DSC_7954",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "1 kg",
+            "price": "24.99",
+            "weight": "1000"
+          }
+        ]
+      },
+      {
+        "categoryId": "e470794f-d122-4b4c-bc36-90d57992b425",
+        "productId": "96bb27d4-fa10-41d8-a308-e42a1fd645ca",
+        "productName": {
+          "en": "Red borscht",
+          "ua": "Борщ червоний"
+        },
+        "ingredients": {
+          "en": "potatoes, beet, cabbage, pork meatballs (lean ground pork, eggs, salt, ground black pepper, red pepper), carrot, onion, tomato sauce, fresh dill and parsley, white sugar, vinegar, salt, ground black pepper.",
+          "ua": "картопля, буряк, капуста,  фрикадельки з свинини (свинина знежилована напівжирна, цибуля,  паприка, яйця курячі, сіль кухонна, перець чорний мелений), морква, томатна паста, кріп свіжий, петрушка свіжа, цукор білий кристалічний, оцет, сіль кухонна, перець чорний мелений. "
+        },
+        "productImgCDN": "red_borscht2_iof9f5",
+        "productImg": "red_borscht2",
+        "vega": false,
+        "show": true,
+        "variants": [
+          {
+            "qty": "1 kg",
+            "price": "26.99",
+            "weight": "1000"
+          }
+        ]
+      }
+    ]
+  }
+]
