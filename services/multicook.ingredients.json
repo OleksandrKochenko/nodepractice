@@ -1,0 +1,812 @@
+[{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce390"
+  },
+  "en": "\"Bryndza\" cheese",
+  "ua": "сир \"Бринза\""
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce391"
+  },
+  "en": "*may contain mustard",
+  "ua": "*може містити гірчицю"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce392"
+  },
+  "en": "*may contain pits",
+  "ua": "*може містити кісточки"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce393"
+  },
+  "en": "apple vinegar",
+  "ua": "оцет яблучний"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce394"
+  },
+  "en": "apples",
+  "ua": "яблука"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce395"
+  },
+  "en": "bacon",
+  "ua": "грудинка свинна"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce396"
+  },
+  "en": "baking powder",
+  "ua": "розпушувач"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce397"
+  },
+  "en": "baking soda",
+  "ua": "сода харчова"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce398"
+  },
+  "en": "banana",
+  "ua": "банан"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce399"
+  },
+  "en": "bay leaves",
+  "ua": "лавровий лист сухий"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce39a"
+  },
+  "en": "beet",
+  "ua": "буряк"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce39b"
+  },
+  "en": "beet juice",
+  "ua": "сік буряка"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce39c"
+  },
+  "en": "bell pepper",
+  "ua": "перець болгарський"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce39d"
+  },
+  "en": "blueberry",
+  "ua": "ягоди лохини"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce39e"
+  },
+  "en": "bread crumbs",
+  "ua": "сухарі панірувальні пшеничні"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce39f"
+  },
+  "en": "buckwheat",
+  "ua": "крупа гречана варена"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3a0"
+  },
+  "en": "butter",
+  "ua": "масло вершкове"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3a1"
+  },
+  "en": "cabbage",
+  "ua": "капуста"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3a2"
+  },
+  "en": "cacao",
+  "ua": "какао-порошок"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3a3"
+  },
+  "en": "carrot",
+  "ua": "морква"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3a4"
+  },
+  "en": "carrot juice",
+  "ua": "сік моркви"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3a5"
+  },
+  "en": "carry powder",
+  "ua": "куркума"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3a6"
+  },
+  "en": "Cheddar cheese",
+  "ua": "сир «Чеддер»"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3a7"
+  },
+  "en": "chicken breast",
+  "ua": "філе куряче"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3a8"
+  },
+  "en": "chicken eggs",
+  "ua": "яйця курячі"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3a9"
+  },
+  "en": "chicken fillets",
+  "ua": "куряче філе"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3aa"
+  },
+  "en": "chocolate glaze",
+  "ua": "помадка шоколадна"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3ab"
+  },
+  "en": "cinnamon",
+  "ua": "кориця"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3ac"
+  },
+  "en": "condensed milk",
+  "ua": "молоко згущене біле"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3ad"
+  },
+  "en": "corn crumbs",
+  "ua": "крупа кукурудзяна панірувальна"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3ae"
+  },
+  "en": "corn flakes",
+  "ua": "кукурудзяні пластівці"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3af"
+  },
+  "en": "corn flour",
+  "ua": "борошно кукурудзяне"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3b0"
+  },
+  "en": "corn starch",
+  "ua": "крохмаль кукурудзяний"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3b1"
+  },
+  "en": "cottage cheese",
+  "ua": "сир кисломолочний"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3b2"
+  },
+  "en": "cream cheese",
+  "ua": "крем-сир"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3b3"
+  },
+  "en": "cream cheese Philadelphia",
+  "ua": "крем-сир Філадельфія"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3b4"
+  },
+  "en": "dark chocolate",
+  "ua": "шоколад темний термостабільний"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3b5"
+  },
+  "en": "decor: chocolate crunch, sublimation raspberry, and confectionery",
+  "ua": "декор: малина сублімована суха, шоколадні кранч кульки та посипка"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3b6"
+  },
+  "en": "dried ground wild mushrooms",
+  "ua": "гриби білі сушені"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3b7"
+  },
+  "en": "drinking water",
+  "ua": "вода питна"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3b8"
+  },
+  "en": "ground dried garlic",
+  "ua": "часник сушений мелений"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3b9"
+  },
+  "en": "eggs",
+  "ua": "яйця"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3ba"
+  },
+  "en": "eggs yolks",
+  "ua": "яйця курячі жовток"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3bb"
+  },
+  "en": "fat",
+  "ua": "сало свинне"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3bc"
+  },
+  "en": "argentina fish fillet",
+  "ua": "філе риби Аргентини"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3bd"
+  },
+  "en": "tilapia fish fillet",
+  "ua": "філе риби Тилапія"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3be"
+  },
+  "en": "fish spice",
+  "ua": "приправа рибна"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3bf"
+  },
+  "en": "fresh dill",
+  "ua": "кріп свіжий"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3c0"
+  },
+  "en": "fresh herbs",
+  "ua": "зелень свіжа"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3c1"
+  },
+  "en": "fried carrots",
+  "ua": "морква смажена"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3c2"
+  },
+  "en": "fried mushrooms",
+  "ua": "гриби печериці смажені"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3c3"
+  },
+  "en": "fried onions",
+  "ua": "цибуля смажена"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3c4"
+  },
+  "en": "frozen sour cherries",
+  "ua": "вишня швидкозаморожена"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3c5"
+  },
+  "en": "gellan gum E418",
+  "ua": "камідь геланова Е418"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3c6"
+  },
+  "en": "Greek yogurt",
+  "ua": "йогурт грецький"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3c7"
+  },
+  "en": "green cabbage",
+  "ua": "капуста білокачанна варена"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3c8"
+  },
+  "en": "ground black pepper",
+  "ua": "перець чорний мелений"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3c9"
+  },
+  "en": "ground chicken thighs",
+  "ua": "філе куряче з стегна"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3ca"
+  },
+  "en": "ground turkey",
+  "ua": "м'ясо індика"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3cb"
+  },
+  "en": "ham",
+  "ua": "шинка копчена"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3cc"
+  },
+  "en": "instant coffee",
+  "ua": "паста з кави"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3cd"
+  },
+  "en": "lean ground beef",
+  "ua": "яловичина знежилована вищого гатунку"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3ce"
+  },
+  "en": "lean ground chicken",
+  "ua": "курка знежилована"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3cf"
+  },
+  "en": "lean ground pork",
+  "ua": "свинина знежилована напівжирна"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3d0"
+  },
+  "en": "lean ground veal",
+  "ua": "телятина знежилована вищого гатунку"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3d1"
+  },
+  "en": "lean pork",
+  "ua": "свинина знежилована напівжирна варена"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3d2"
+  },
+  "en": "lemon",
+  "ua": "лимон цедра"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3d3"
+  },
+  "en": "liver pork heart",
+  "ua": "лівер серце свинне"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3d4"
+  },
+  "en": "lungs",
+  "ua": "легені свинні"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3d5"
+  },
+  "en": "Mackerel",
+  "ua": "скумбрія"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3d6"
+  },
+  "en": "mango butter",
+  "ua": "паста манго"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3d7"
+  },
+  "en": "mayonnaise",
+  "ua": "майонез"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3d8"
+  },
+  "en": "mayonnaise sauce",
+  "ua": "соус майонезний"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3d9"
+  },
+  "en": "milk",
+  "ua": "молоко коров'яче"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3da"
+  },
+  "en": "mozzarella cheese",
+  "ua": "сир Моцарелла"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3db"
+  },
+  "en": "mushrooms",
+  "ua": "гриби "
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3dc"
+  },
+  "en": "mustard",
+  "ua": "гірчиця"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3dd"
+  },
+  "en": "mustard sauce",
+  "ua": "соус гірчичний"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3de"
+  },
+  "en": "mustard seed",
+  "ua": "гірчиця в зернах"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3df"
+  },
+  "en": "nutmeg muscade",
+  "ua": "горіх мускатний мелений"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3e0"
+  },
+  "en": "onion",
+  "ua": "цибуля ріпчаста"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3e1"
+  },
+  "en": "parsley",
+  "ua": "петрушка свіжа"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3e2"
+  },
+  "en": "poppy seeds",
+  "ua": "мак"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3e3"
+  },
+  "en": "pork lard",
+  "ua": "сало свинне"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3e4"
+  },
+  "en": "potato starch",
+  "ua": "крохмаль картопляний"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3e5"
+  },
+  "en": "potatoes",
+  "ua": "картопля"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3e6"
+  },
+  "en": "quail eggs",
+  "ua": "перепелині яйця"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3e7"
+  },
+  "en": "raisins",
+  "ua": "родзинки"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3e8"
+  },
+  "en": "red pepper",
+  "ua": "перець червоний мелений"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3e9"
+  },
+  "en": "refined sunflower oil",
+  "ua": "олія соняшникова рафінована"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3ea"
+  },
+  "en": "rice",
+  "ua": "крупа рисова варена"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3eb"
+  },
+  "en": "salmon fillet",
+  "ua": "філе лосося"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3ec"
+  },
+  "en": "salt",
+  "ua": "сіль кухонна"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3ed"
+  },
+  "en": "sauerkraut",
+  "ua": "капуста квашена"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3ee"
+  },
+  "en": "sausage casing",
+  "ua": "оболонка натуральна"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3ef"
+  },
+  "en": "sour cherry",
+  "ua": "пюре з вишні"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3f0"
+  },
+  "en": "spices",
+  "ua": "суміш спецій"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3f1"
+  },
+  "en": "spinach",
+  "ua": "шпинат"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3f2"
+  },
+  "en": "spinach juice",
+  "ua": "сік шпинату"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3f3"
+  },
+  "en": "strawberry",
+  "ua": "ягоди полуниці швидкозаморожені"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3f4"
+  },
+  "en": "strawberry glaze",
+  "ua": "помадка полунична"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3f5"
+  },
+  "en": "sublimation raspberry",
+  "ua": "декор: малина сублімована суха"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3f6"
+  },
+  "en": "suneli spice",
+  "ua": "спеція уцхо-сунелі"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3f7"
+  },
+  "en": "tomato",
+  "ua": "помідори"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3f8"
+  },
+  "en": "tomato sauce",
+  "ua": "томатна паста"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3f9"
+  },
+  "en": "tomatoes",
+  "ua": "томати свіжі"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3fa"
+  },
+  "en": "turkey",
+  "ua": "м'ясо індика"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3fb"
+  },
+  "en": "vanilla sugar",
+  "ua": "цукор ванільний"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3fc"
+  },
+  "en": "vinegar",
+  "ua": "оцет"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3fd"
+  },
+  "en": "water",
+  "ua": "вода"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3fe"
+  },
+  "en": "wheat flour",
+  "ua": "борошно пшеничне вищого ґатунку"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce3ff"
+  },
+  "en": "whipping cream",
+  "ua": "вершки ультрапастеризовані"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce400"
+  },
+  "en": "white bread",
+  "ua": "батон пшеничний"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce401"
+  },
+  "en": "white chocolate glaze",
+  "ua": "помадка білий шоколад"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce402"
+  },
+  "en": "white sugar",
+  "ua": "цукор білий кристалічний"
+},
+{
+  "_id": {
+    "$oid": "682b71fbc28a3e5c9c0ce403"
+  },
+  "en": "yogurt",
+  "ua": "йогурт"
+}]

@@ -1,6 +1,7 @@
 const fs = require("fs/promises");
 const path = require("path");
 const xlsx = require("xlsx");
+const { ObjectId } = require("mongodb"); // For ObjectId syntax
 
 // Path to the input JSON file
 const inputFilePath = path.join(__dirname, "products.json");
@@ -172,7 +173,176 @@ const createExcelFromTwoJsonFiles = async () => {
   }
 };
 
-createExcelFromTwoJsonFiles();
+const updateCategories = async () => {
+  const productsPath = path.join(__dirname, "products.json");
+  const categoriesPath = path.join(__dirname, "multicook.categories.json");
+  const outputPath = path.join(__dirname, "productsWithCatUpdated.json");
+
+  // Read and parse files
+  const productsData = JSON.parse(await fs.readFile(productsPath, "utf8"));
+  const categoriesData = JSON.parse(await fs.readFile(categoriesPath, "utf8"));
+
+  // Build a map: { name.en: _id }
+  const categoryMap = {};
+  categoriesData.forEach((cat) => {
+    const key = cat.name.en;
+    // Support both string and {$oid: ...} formats
+    categoryMap[key] =
+      cat._id && cat._id.$oid
+        ? { $oid: cat._id.$oid }
+        : typeof cat._id === "string"
+        ? { $oid: cat._id }
+        : cat._id;
+  });
+
+  // Update every categoryId in products.json
+  productsData.forEach((category) => {
+    const catName = category.categoryName.en;
+    const newCatId = categoryMap[catName] || null;
+    category.categoryId = newCatId;
+    if (Array.isArray(category.products)) {
+      category.products.forEach((product) => {
+        product.categoryId = newCatId;
+      });
+    }
+  });
+
+  // Write updated data to output file
+  await fs.writeFile(outputPath, JSON.stringify(productsData, null, 2));
+  console.log(
+    "Updated categoryId fields in products and products[].categoryId"
+  );
+};
+
+const flattenProducts = async () => {
+  const inputPath = path.join(__dirname, "productsWithCatUpdated.json");
+  const outputPath = path.join(__dirname, "productsFlat.json");
+
+  const categories = JSON.parse(await fs.readFile(inputPath, "utf8"));
+
+  // Flatten all products into a single array
+  const flatProducts = categories.flatMap((category) =>
+    (category.products || []).map((product) => ({
+      ...product,
+    }))
+  );
+
+  await fs.writeFile(outputPath, JSON.stringify(flatProducts, null, 2));
+  console.log("Flattened products saved to productsFlat.json");
+};
+
+const updateIngredients = async () => {
+  const productsPath = path.join(__dirname, "productsFlat.json");
+  const ingredientsPath = path.join(__dirname, "multicook.ingredients.json");
+  const outputPath = path.join(__dirname, "productsFlatWithIngredientIds.json");
+
+  // Read and parse files
+  const products = JSON.parse(await fs.readFile(productsPath, "utf8"));
+  const ingredients = JSON.parse(await fs.readFile(ingredientsPath, "utf8"));
+
+  // Build a map: { en: _id }
+  const ingredientMap = {};
+  ingredients.forEach((ing) => {
+    // Assuming ing.en is the English name and ing._id is the ObjectId
+    ingredientMap[ing.en.trim().toLowerCase()] =
+      ing._id && ing._id.$oid ? { $oid: ing._id.$oid } : ing._id;
+  });
+
+  // Update products
+  products.forEach((product) => {
+    if (product.ingredients && product.ingredients.en) {
+      const ingredientNames = product.ingredients.en
+        .split(",")
+        .map((s) => s.trim().toLowerCase())
+        .filter(Boolean);
+
+      // Map to _ids, skip if not found
+      const ingredientIds = ingredientNames
+        .map((name) => ingredientMap[name])
+        .filter(Boolean);
+
+      product.ingredients = ingredientIds;
+    }
+  });
+
+  await fs.writeFile(outputPath, JSON.stringify(products, null, 2));
+  console.log(
+    "Updated products with ingredient _ids saved to productsFlatWithIngredientIds.json"
+  );
+};
+
+const finalizeProducts = async () => {
+  const inputPath = path.join(__dirname, "productsFlatWithIngredientIds.json");
+  const outputPath = path.join(__dirname, "productsFinal.json");
+
+  const products = JSON.parse(await fs.readFile(inputPath, "utf8"));
+
+  products.forEach((product) => {
+    // 1. Remove productImg and productId
+    delete product.productImg;
+    delete product.productId;
+
+    // 2. Add inStock: 0 to each variant if variants exist and is an array
+    if (Array.isArray(product.variants) && product.variants.length > 0) {
+      product.variants.forEach((variant) => {
+        variant.inStock = 0;
+      });
+
+      // 3. Replace variants array with object { md: ..., lg: ... }
+      const variantsObj = {};
+      if (product.variants[0]) variantsObj.md = product.variants[0];
+      if (product.variants[1]) variantsObj.lg = product.variants[1];
+      product.variants = variantsObj;
+    }
+  });
+
+  await fs.writeFile(outputPath, JSON.stringify(products, null, 2));
+  console.log("productsFinal.json created!");
+};
+
+const createVariantsWithStores = async () => {
+  const productsPath = path.join(__dirname, "multicook.products.json"); // Use this file now
+  const storesPath = path.join(__dirname, "multicook.stores.json");
+  const outputPath = path.join(__dirname, "variantsWithStores.json");
+
+  const products = JSON.parse(await fs.readFile(productsPath, "utf8"));
+  const stores = JSON.parse(await fs.readFile(storesPath, "utf8"));
+
+  const result = [];
+
+  products.forEach((product) => {
+    // Use MongoDB _id as productId
+    const productId =
+      product._id && product._id.$oid
+        ? { $oid: product._id.$oid }
+        : product._id;
+
+    if (
+      product.variants &&
+      typeof product.variants === "object" &&
+      Object.keys(product.variants).length > 0
+    ) {
+      stores.forEach((store) => {
+        result.push({
+          productId,
+          storeId:
+            store._id && store._id.$oid ? { $oid: store._id.$oid } : store._id,
+          variants: product.variants,
+        });
+      });
+    }
+  });
+
+  await fs.writeFile(outputPath, JSON.stringify(result, null, 2));
+  console.log("variantsWithStores.json created using multicook.products.json!");
+};
+
+createVariantsWithStores();
+// finalizeProducts();
+// updateIngredients();
+// flattenProducts();
+// updateCategories();
+// createExcelFromTwoJsonFiles();
 // createCategories();
 // createIngredients();
 // uniqueArrays();

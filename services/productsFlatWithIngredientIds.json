@@ -1,0 +1,4212 @@
+[
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce385"
+    },
+    "productId": "61d1f85e-b67c-4cf9-8ce8-41acff725317",
+    "productName": {
+      "en": "Sauerkraut and  wild mushrooms perogies VEGA",
+      "ua": "Вареники з капустою та білими грибами VEGA"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ed"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3db"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3c3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b6"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "DSC_0488_2_bxhgzx",
+    "productImg": "DSC_0488_2",
+    "vega": true,
+    "show": true,
+    "variants": [
+      {
+        "qty": "28-30 pcs",
+        "price": "22.99",
+        "weight": "700"
+      },
+      {
+        "qty": "46-48 pcs",
+        "price": "35.99",
+        "weight": "1100"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce385"
+    },
+    "productId": "7ad408f2-3571-4152-9347-4831d92dff09",
+    "productName": {
+      "en": "Spinach and cottage cheese perogies",
+      "ua": "Вареники з шпинатом та солоним сиром"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b1"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3f1"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      }
+    ],
+    "productImgCDN": "DSC_8033_bnndbw",
+    "productImg": "DSC_8033",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "30-32 pcs",
+        "price": "22.49",
+        "weight": "700"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce385"
+    },
+    "productId": "2b6d9bde-85a9-4078-b93f-9c31268a2570",
+    "productName": {
+      "en": "Cottage cheese perogies",
+      "ua": "Вареники з солоним сиром"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b1"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      }
+    ],
+    "productImgCDN": "DSC_5656_ypcqqj",
+    "productImg": "DSC_5656",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "32-34 pcs",
+        "price": "21.49",
+        "weight": "700"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce385"
+    },
+    "productId": "8429bcb0-57eb-45c5-aacb-8b009099f6f2",
+    "productName": {
+      "en": "Sweet cottage cheese perogies",
+      "ua": "Вареники з солодким сиром"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b1"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fb"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      }
+    ],
+    "productImgCDN": "DSC_8100_raf7xh",
+    "productImg": "DSC_8100",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "32-34 pcs",
+        "price": "21.49",
+        "weight": "700"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce385"
+    },
+    "productId": "243e3fd1-ce61-4ec1-93b3-d95b67a47d55",
+    "productName": {
+      "en": "Sour cherry perogies VEGA",
+      "ua": "Вареники з вишнею VEGA"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3c4"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      }
+    ],
+    "productImgCDN": "DSC_8054_mmhdrw",
+    "productImg": "DSC_8054",
+    "vega": true,
+    "show": true,
+    "variants": [
+      {
+        "qty": "36-38 pcs",
+        "price": "26.49",
+        "weight": "700"
+      },
+      {
+        "qty": "58-60 pcs ",
+        "price": "40.99",
+        "weight": "1100"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce385"
+    },
+    "productId": "cbb8992f-809a-45cb-bfa5-cf278974e926",
+    "productName": {
+      "en": "Blueberry perogies VEGA",
+      "ua": "Вареники з лохиною VEGA"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      }
+    ],
+    "productImgCDN": "DSC_6229_uk07ex",
+    "productImg": "DSC_6229",
+    "vega": true,
+    "show": true,
+    "variants": [
+      {
+        "qty": "32-34 pcs",
+        "price": "26.49",
+        "weight": "700"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce385"
+    },
+    "productId": "2531969e-1c37-41a8-9422-6e1c719f059e",
+    "productName": {
+      "en": "Meat perogies",
+      "ua": "Вареники з м’ясом "
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cf"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3c3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "perigies_meat_veotoe",
+    "productImg": "perigies_meat",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "30-32 pcs",
+        "price": "21.49",
+        "weight": "700"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce385"
+    },
+    "productId": "c9b97297-cf7a-44f6-87a1-86eaccfb53b1",
+    "productName": {
+      "en": "Liver perogies",
+      "ua": "Вареники з лівером"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d4"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3c3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "liver_perogies_zizhwr",
+    "productImg": "liver_perogies",
+    "vega": false,
+    "show": false,
+    "variants": [
+      {
+        "qty": "30-32 pcs",
+        "price": "21.49",
+        "weight": "700"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce385"
+    },
+    "productId": "9ab16702-0fc4-4ea5-afb1-b4881133aa91",
+    "productName": {
+      "en": "Potato perogies",
+      "ua": "Вареники з картоплею VEGA"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e5"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3c3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "potato_perogies_zqot9w",
+    "productImg": "potato_perogies",
+    "vega": true,
+    "show": true,
+    "variants": [
+      {
+        "qty": "32-34 pcs",
+        "price": "16.99",
+        "weight": "700"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce385"
+    },
+    "productId": "5adaed06-256d-4464-b8e5-1408a7f951aa",
+    "productName": {
+      "en": "Potato and bacon perogies",
+      "ua": "Вареники з картоплею та шкваркою"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e5"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce395"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3c3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "perogies_bacon_j2drgy",
+    "productImg": "perogies_bacon",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "30-32 pcs",
+        "price": "21.49",
+        "weight": "700"
+      },
+      {
+        "qty": "46-48 pcs",
+        "price": "32.99",
+        "weight": "1100"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce385"
+    },
+    "productId": "29a10fae-47e3-463f-97eb-afa4b696d02f",
+    "productName": {
+      "en": "Potato and butter perogies",
+      "ua": "Вареники з картоплею та маслом"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e5"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "perogies_with_butter_hdlcal",
+    "productImg": "perogies_with_butter",
+    "vega": false,
+    "show": false,
+    "variants": []
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce385"
+    },
+    "productId": "cddde6a1-025e-45c5-85a2-9e5a6c71744e",
+    "productName": {
+      "en": "Potato and cottage cheese perogies",
+      "ua": "Вареники з картоплею та сиром"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e5"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b1"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "perogies_poatto_cottage_cheese_dbmebn",
+    "productImg": "perogies_poatto_cottage_cheese",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "30-32 pcs",
+        "price": "20.49",
+        "weight": "700"
+      },
+      {
+        "qty": "50-52 pcs",
+        "price": "30.49",
+        "weight": "1100"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce385"
+    },
+    "productId": "a76dd4d1-f480-46b7-8885-c860020efcab",
+    "productName": {
+      "en": "Potato and mushrooms perogies",
+      "ua": "Вареники з картоплею та грибами VEGA"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e5"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3db"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3c3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "perigies_with_wild_mushroom_y95ceq",
+    "productImg": "perigies_with_mushroom",
+    "vega": true,
+    "show": true,
+    "variants": [
+      {
+        "qty": "30-32 pcs",
+        "price": "21.49",
+        "weight": "700"
+      },
+      {
+        "qty": "48-50 pcs",
+        "price": "32.99",
+        "weight": "1100"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce385"
+    },
+    "productId": "24a3b58d-5c4d-4674-adf2-7d2be88214ad",
+    "productName": {
+      "en": "Potato and wild mushrooms perogies",
+      "ua": "Вареники з картоплею та білими грибами VEGA"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e5"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3c3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b6"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "perogies_with_mushroom1_ycdmms",
+    "productImg": "perogies_with_mushroom1",
+    "vega": true,
+    "show": true,
+    "variants": [
+      {
+        "qty": "30-32 pcs",
+        "price": "21.49",
+        "weight": "700"
+      },
+      {
+        "qty": "48-50 pcs",
+        "price": "32.99",
+        "weight": "1100"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce385"
+    },
+    "productId": "911042d8-d471-400c-85cb-ebcd726bc451",
+    "productName": {
+      "en": "Potato with cheddar cheese",
+      "ua": "Вареники з сиром чедер"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e5"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a6"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      }
+    ],
+    "productImgCDN": "photo_2025-03-12_03-39-59_a0ytvh",
+    "productImg": "",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "32-34 pcs",
+        "price": "19.99",
+        "weight": "700"
+      },
+      {
+        "qty": "52-54 pcs",
+        "price": "30.49",
+        "weight": "1100"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce385"
+    },
+    "productId": "6287ea65-b07c-4f2d-9fef-17f11a803aec",
+    "productName": {
+      "en": "Sauerkraut perogies VEGA",
+      "ua": "Вареники з капустою VEGA"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ed"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3c1"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3c3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "cabbage_perogies_mlji1a",
+    "productImg": "cabbage_perogies",
+    "vega": true,
+    "show": true,
+    "variants": [
+      {
+        "qty": "34-36 pcs",
+        "price": "22.99",
+        "weight": "700"
+      },
+      {
+        "qty": "50-52 pcs",
+        "price": "35.99",
+        "weight": "1100"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce386"
+    },
+    "productId": "d36006e0-f738-4c51-baba-a7e94ba9f285",
+    "productName": {
+      "en": "Pork dumplings (pelmeni)",
+      "ua": "Пельмені зі свининою"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cf"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "pelmeni_h7ujfw",
+    "productImg": "pelmeni",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "60-62 pcs",
+        "price": "20.99",
+        "weight": "700"
+      },
+      {
+        "qty": "92-94 pcs",
+        "price": "31.99",
+        "weight": "1100"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce386"
+    },
+    "productId": "7655040d-c095-4c27-bc0b-56a9be32442c",
+    "productName": {
+      "en": "Pork and beef dumplings (pelmeni)",
+      "ua": "Пельмені зі свининою та яловичиною"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cf"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "Just_pelmeni2_ifw2ps",
+    "productImg": "Just_pelmeni2",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "60-62 pcs",
+        "price": "22.49",
+        "weight": "700"
+      },
+      {
+        "qty": "92-94 pcs",
+        "price": "34.99",
+        "weight": "1100"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce386"
+    },
+    "productId": "25b2392b-54fb-480e-bf77-8bc9ec97225b",
+    "productName": {
+      "en": "Veal dumplings (pelmeni)",
+      "ua": "Пельмені з телятиною"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "pelmeni_veal_lewpvp",
+    "productImg": "pelmeni_veal",
+    "vega": false,
+    "show": true,
+    "variants": []
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce386"
+    },
+    "productId": "a56c88df-bc2d-44a6-99ad-5595d43c8ea3",
+    "productName": {
+      "en": "Chicken and pork dumplings (pelmeni)",
+      "ua": "Пельмені курячі зі свининою"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a7"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cf"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "P1510083_vvfr7w",
+    "productImg": "P1510083",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "52-54 pcs",
+        "price": "21.49",
+        "weight": "700"
+      },
+      {
+        "qty": "84-86 pcs",
+        "price": "32.99",
+        "weight": "1100"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce386"
+    },
+    "productId": "3f299024-7d20-4648-bf42-35697e41c686",
+    "productName": {
+      "en": "Corn-flour chicken dumplings (pelmeni)",
+      "ua": "Пельмені з куркою на кукурудзяному борошні"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ce"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3af"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "2_klymho",
+    "productImg": "2",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "52-54 pcs",
+        "price": "27.99",
+        "weight": "700"
+      },
+      {
+        "qty": "84-86 pcs",
+        "price": "42.99",
+        "weight": "1100"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce386"
+    },
+    "productId": "acb1bde9-8467-45fd-bbb9-7ef792687da6",
+    "productName": {
+      "en": "Kids' chicken dumplings (pelmeni)",
+      "ua": "Пельмені Дитячі з куркою"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a7"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce39b"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a4"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3f2"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b7"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      }
+    ],
+    "productImgCDN": "children_pelmeni_pgaopz",
+    "productImg": "children_pelmeni",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "60-62 pcs",
+        "price": "27.99",
+        "weight": "700"
+      },
+      {
+        "qty": "92-94 pcs",
+        "price": "42.99",
+        "weight": "1100"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce386"
+    },
+    "productId": "9fc531c2-b810-4a71-8c00-83dd8e698d27",
+    "productName": {
+      "en": "Turkey dumplings (pelmeni)",
+      "ua": "Пельмені з індичкою"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ca"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "P1500687_mtgdwe",
+    "productImg": "P1500687",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "64-66 pcs",
+        "price": "29.99",
+        "weight": "700"
+      },
+      {
+        "qty": "96-98 pcs",
+        "price": "45.99",
+        "weight": "1100"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce386"
+    },
+    "productId": "35901a40-d5db-4a27-beec-018f20e7d70b",
+    "productName": {
+      "en": "Three Meats dumplings (pelmeni)",
+      "ua": "Пельмені \"Три м’яса\""
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3c9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cf"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3bf"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "DSC_6336_roj20g",
+    "productImg": "DSC_6336",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "48-50 pcs",
+        "price": "23.49",
+        "weight": "700"
+      },
+      {
+        "qty": "74-76 pcs",
+        "price": "35.49",
+        "weight": "1100"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce386"
+    },
+    "productId": "11ea7870-7322-4c54-8fb1-6f3d5496aded",
+    "productName": {
+      "en": "Salmon and cottage cheese dumplings (pelmeni)",
+      "ua": "Пельмені з лососем та сиром"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3eb"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b1"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3bf"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "sch3_gqqvsx",
+    "productImg": "sch3",
+    "vega": false,
+    "show": false,
+    "variants": [
+      {
+        "qty": "54-56 pcs",
+        "price": "44.99",
+        "weight": "700"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce386"
+    },
+    "productId": "7800bee5-83d0-4c44-aeca-390ac7493282",
+    "productName": {
+      "en": "Salmon and spinach dumplings (pelmeni)",
+      "ua": "Пельмені з лососем та шпинатом"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3eb"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3f1"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "ssh1_eus7ho",
+    "productImg": "ssh1",
+    "vega": false,
+    "show": false,
+    "variants": [
+      {
+        "qty": "54-56 pcs",
+        "price": "42.99",
+        "weight": "700"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce386"
+    },
+    "productId": "ed94d77c-190a-4266-9d46-500ae6ef4b10",
+    "productName": {
+      "en": "Fish dumplings (pelmeni) (lent dish)",
+      "ua": "Пельмені з рибою (пісні)"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "Fish_dumplings_a1oywd",
+    "productImg": "Fish_dumplings",
+    "vega": false,
+    "show": false,
+    "variants": []
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce386"
+    },
+    "productId": "a807422f-4866-4e94-90ed-889da70ad8b6",
+    "productName": {
+      "en": "Pork khinkali",
+      "ua": "Хінкалі зі свининою"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cf"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3c0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e4"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3f6"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "DSC_8076_xk4eps",
+    "productImg": "DSC_8076",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "8 pcs",
+        "price": "13.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce386"
+    },
+    "productId": "c7dd585c-e99e-4fbd-9114-68c20d216086",
+    "productName": {
+      "en": "Beef khinkali",
+      "ua": "Хінкалі зі яловичини"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3c0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e4"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3f6"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "DSC_8076_xk4eps",
+    "productImg": "DSC_8076",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "4 pcs",
+        "price": "17.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce387"
+    },
+    "productId": "bc7afde6-8c31-4757-b551-07402af4684c",
+    "productName": {
+      "en": "Syrnyky (cottage cheese pancakes)",
+      "ua": "Сирники"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b1"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      }
+    ],
+    "productImgCDN": "DSC_6376_werdot",
+    "productImg": "DSC_6376",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "8 pcs",
+        "price": "16.49",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce387"
+    },
+    "productId": "afe0d65a-511c-43fa-8cee-9fba1e38eaeb",
+    "productName": {
+      "en": "Syrnyky (cottage cheese pancakes) with raisins",
+      "ua": "Сирники з родзинками"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b1"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e7"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      }
+    ],
+    "productImgCDN": "DSC_7623_nsxvib",
+    "productImg": "DSC_7623",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "8 pcs",
+        "price": "16.49",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce387"
+    },
+    "productId": "569e437f-dfb2-4434-bc37-ddcc05fb0745",
+    "productName": {
+      "en": "Meat Crepes",
+      "ua": "Млинці з м’ясом"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cf"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3c3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      }
+    ],
+    "productImgCDN": "DSC_7692_tn50ki",
+    "productImg": "DSC_7692",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "6 pcs",
+        "price": "12.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce387"
+    },
+    "productId": "7d71b06e-01c0-4b8a-925b-f86e9aa5bd55",
+    "productName": {
+      "en": "Chicken and mushroom crepes",
+      "ua": "Млинці з куркою та грибами"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a7"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3c2"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3c3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      }
+    ],
+    "productImgCDN": "DSC_7725_eamlox",
+    "productImg": "DSC_7725",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "6 pcs",
+        "price": "18.49",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce387"
+    },
+    "productId": "348c8252-7b94-4f59-8e03-c11ef9d870a3",
+    "productName": {
+      "en": "Liver crepes",
+      "ua": "Млинці з лівером"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d4"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3c3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      }
+    ],
+    "productImgCDN": "DSC_7677_vhchyg",
+    "productImg": "DSC_7677",
+    "vega": false,
+    "show": false,
+    "variants": []
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce387"
+    },
+    "productId": "97b3a171-e085-43fd-9160-322b3406a164",
+    "productName": {
+      "en": "Ham and mozzarella cheese crepes",
+      "ua": "Млинці з шинкою та сиром моццарелла"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cb"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3da"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d8"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ff"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3dd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce393"
+      }
+    ],
+    "productImgCDN": "ham_and_cheese_wcatxl",
+    "productImg": "ham_and_cheese",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "4 pcs",
+        "price": "14.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce387"
+    },
+    "productId": "672d4c8b-5401-49eb-90a5-77f98fb1a5ab",
+    "productName": {
+      "en": "Salmon and spinach crepes",
+      "ua": "Млинці з лососем та шпинатом"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3f1"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a8"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "DSC_5453_qejgrb",
+    "productImg": "DSC_5453",
+    "vega": false,
+    "show": false,
+    "variants": []
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce387"
+    },
+    "productId": "5366558e-631d-4355-8689-eb7e9f26be17",
+    "productName": {
+      "en": "Salmon and cottage cheese crepes",
+      "ua": "Млинці з лососем та сиром"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b1"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3bf"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "salmon_cheesw_crepes_pjpfan",
+    "productImg": "salmon_cheesw_crepes",
+    "vega": false,
+    "show": false,
+    "variants": []
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce387"
+    },
+    "productId": "60164de0-7860-4a2f-b028-84755e6e3200",
+    "productName": {
+      "en": "Bryndza cheese and fresh herbs crepes",
+      "ua": "Млинці з бринзою та зеленю"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce390"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b7"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b8"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      }
+    ],
+    "productImgCDN": "DSC_7708_iuqczx",
+    "productImg": "DSC_7708",
+    "vega": false,
+    "show": false,
+    "variants": []
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce387"
+    },
+    "productId": "c0553ed7-8d20-4f28-8f05-912fedc2b718",
+    "productName": {
+      "en": "Spinach and cream cheese crepes",
+      "ua": "Млинці з шпинатом та крем сиром"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b2"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3f1"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "spinach_and_cheese_crepes_su23ql",
+    "productImg": "spinach_and_cheese_crepes",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "6 pcs",
+        "price": "18.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce387"
+    },
+    "productId": "3c1cc3c4-6c59-49ae-a75b-69f48ae6e933",
+    "productName": {
+      "en": "Benderiki",
+      "ua": "Бендерики"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cf"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      }
+    ],
+    "productImgCDN": "DSC_6702_jthnky",
+    "productImg": "DSC_6702",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "4 pcs",
+        "price": "9.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce387"
+    },
+    "productId": "f416098b-8b2d-4b24-b6a7-92cb986c7231",
+    "productName": {
+      "en": "Benderiki chicken and mozzarella sheese",
+      "ua": "Бендерики з куркою та сиром моцарелла"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a7"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d7"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3da"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3c0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      }
+    ],
+    "productImgCDN": "DSC_6702_jthnky",
+    "productImg": "DSC_6702",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "4 pcs",
+        "price": "11.49",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce387"
+    },
+    "productId": "99faf933-d23f-4696-bc7b-3e0fbee4c191",
+    "productName": {
+      "en": "Sweet cottage cheese crepes",
+      "ua": "Млинці з солодким сиром"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b1"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "sweet_cheese_crepes_nwmise",
+    "productImg": "sweet_cheese_crepes",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "5 pcs",
+        "price": "17.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce387"
+    },
+    "productId": "76509377-3ddd-43c2-b110-2c49a1a9bc5b",
+    "productName": {
+      "en": "Cottage cheese and blueberry crepes",
+      "ua": "Млинці з сиром та лохиною"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b1"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce39d"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b7"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "DSC_7563_x32tfn",
+    "productImg": "DSC_7563",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "5 pcs",
+        "price": "17.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce387"
+    },
+    "productId": "934372b0-4a06-4676-9cab-f64a184fe49e",
+    "productName": {
+      "en": "Cottage cheese and strawberry crepes",
+      "ua": "Млинці з сиром та полуницею"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b1"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3f3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "DSC_7535_hfl4sm",
+    "productImg": "DSC_7535",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "5 pcs",
+        "price": "17.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce387"
+    },
+    "productId": "8c9ed949-1e73-4c61-a442-fc67d2e8e32a",
+    "productName": {
+      "en": "Poppy seeds and sour cherry crepes",
+      "ua": "Млинці з маком та вишнею"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e2"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ef"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b7"
+      }
+    ],
+    "productImgCDN": "DSC_7854_jgtddo",
+    "productImg": "DSC_7854",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "5 pcs",
+        "price": "16.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce387"
+    },
+    "productId": "5e32d07c-b37b-4e1d-9fdf-e11c4c94b90c",
+    "productName": {
+      "en": "Caramelized apple crepes",
+      "ua": "Млинці з карамелізованим яблуком"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "DSC_7634_zccxci",
+    "productImg": "DSC_7634",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "6 pcs",
+        "price": "15.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce387"
+    },
+    "productId": "963bcbbc-4f30-4385-a38e-d294104c53a2",
+    "productName": {
+      "en": "Banana and condensed milk crepes",
+      "ua": "Млинці з бананом та згущоним молоком"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce398"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ac"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b7"
+      }
+    ],
+    "productImgCDN": "DSC_7839_rqfukz",
+    "productImg": "DSC_7839",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "6 pcs",
+        "price": "15.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce388"
+    },
+    "productId": "260c090c-e16d-4a02-b39e-197216664f9a",
+    "productName": {
+      "en": "Pork chebureki",
+      "ua": "Чебуреки зі свининою"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cf"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fc"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "DSC_7743_iqs5n1",
+    "productImg": "DSC_7743",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "4 pcs",
+        "price": "13.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce388"
+    },
+    "productId": "efe4828a-ec1a-45be-9998-769a89a11f53",
+    "productName": {
+      "en": "Pork, mozzarella cheese and tomato chebureki",
+      "ua": "Чебуреки зі свининою з сиром та помідором"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cf"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3da"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3f7"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fc"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "cheddar_tomato_jnwij2",
+    "productImg": "cheddar_tomato",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "4 pcs",
+        "price": "14.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce388"
+    },
+    "productId": "03e6bf8d-bcf2-46ea-9d47-f64b7da9ffdd",
+    "productName": {
+      "en": "Fish chebureki",
+      "ua": "Чебуреки з рибою"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fc"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "Fish_chebureki_exgys5",
+    "productImg": "Fish_chebureki",
+    "vega": false,
+    "show": false,
+    "variants": []
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce388"
+    },
+    "productId": "5f7119c3-4557-45f8-9f47-0faeb52bbd27",
+    "productName": {
+      "en": "Mozzarella/cottage cheese and fresh herbs chebureki",
+      "ua": "Чебуреки з сиром та зеленю"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b1"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3da"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fc"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "cheese_herbs_chebureki_lmjway",
+    "productImg": "cheese_herbs_chebureki",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "4 pcs",
+        "price": "14.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce388"
+    },
+    "productId": "b282c233-9268-4347-9455-fb5b02576759",
+    "productName": {
+      "en": "Sauerkraut chebureki",
+      "ua": "Чебуреки з капустою VEGA"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ed"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fc"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "cabbage_chebureki_mi4jks",
+    "productImg": "cabbage_chebureki",
+    "vega": true,
+    "show": true,
+    "variants": [
+      {
+        "qty": "4 pcs",
+        "price": "11.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce389"
+    },
+    "productId": "a65ba49a-0fde-43e7-99d0-02fe8776d9a9",
+    "productName": {
+      "en": "Potato hashbrowns",
+      "ua": "Деруни"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e5"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d7"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "potato_hashbrowns_lqxdvi",
+    "productImg": "potato_hashbrowns",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "6 pcs",
+        "price": "11.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce389"
+    },
+    "productId": "4074125b-7ea0-417a-8a18-70dc6c1e0f2a",
+    "productName": {
+      "en": "Meat potato hashbrowns",
+      "ua": "Деруни з м’ясом"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e5"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cf"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d7"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "meat_potato_hashbrowns_nmwszu",
+    "productImg": "meat_potato_hashbrowns",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "6 pcs",
+        "price": "13.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce389"
+    },
+    "productId": "a888a85c-92b9-47f9-855b-09cc6305572d",
+    "productName": {
+      "en": "Mushroom potato hashbrowns",
+      "ua": "Деруни з грибами"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e5"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d7"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "mushroom_hashbrowns_tdw6lg",
+    "productImg": "mushroom_hashbrowns",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "6 pcs",
+        "price": "14.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce389"
+    },
+    "productId": "775c1747-2059-4798-8a7d-aa13d09fe65f",
+    "productName": {
+      "en": "Meat zrazes",
+      "ua": "Картопляні зрази з м’ясом"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e5"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cf"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "DSC_6477_n9m0rs",
+    "productImg": "DSC_6477",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "6 pcs",
+        "price": "15.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce389"
+    },
+    "productId": "8122e679-f46d-4fde-bb6a-15a69e50491a",
+    "productName": {
+      "en": "Liver zrazes",
+      "ua": "Картопляні зрази з лівером"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e5"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d4"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "DSC_6504_qgqsvr",
+    "productImg": "DSC_6504",
+    "vega": false,
+    "show": false,
+    "variants": [
+      {
+        "qty": "6 pcs",
+        "price": "15.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce389"
+    },
+    "productId": "c6195d72-8d3d-446e-a85c-11c315f225a7",
+    "productName": {
+      "en": "Sauerkraut zrazes",
+      "ua": "Картопляні зрази з капустою"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e5"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ed"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "DSC_6401_cnhz8m",
+    "productImg": "DSC_6401",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "6 pcs",
+        "price": "15.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce389"
+    },
+    "productId": "4d8521ea-30d7-44b9-9b4e-266c4b1704f0",
+    "productName": {
+      "en": "Mushroom zrazes",
+      "ua": "Картопляні зрази з грибами"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e5"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "DSC_6420_ullvmw",
+    "productImg": "DSC_6420",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "6 pcs",
+        "price": "17.49",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38a"
+    },
+    "productId": "ed38a1dd-13fc-44e9-ac32-bc51d4055f1d",
+    "productName": {
+      "en": "Home made sausage",
+      "ua": "Ковбаса домашня"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d1"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b8"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3de"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ee"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "sausage_nq60ej",
+    "productImg": "sausage",
+    "vega": false,
+    "show": true,
+    "variants": []
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38a"
+    },
+    "productId": "652e6c6e-fa4c-45dd-ad73-defd7ac7b1fa",
+    "productName": {
+      "en": "Pork sausage",
+      "ua": "Ковбаса зі свинини гриль"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d1"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b8"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ee"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "DSC_6669_xoo1ql",
+    "productImg": "DSC_6669",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "5 pcs",
+        "price": "16.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38a"
+    },
+    "productId": "9d31205b-a02e-4d5f-912a-04eae5ffad37",
+    "productName": {
+      "en": "Chicken and mozzarella cheese sausage",
+      "ua": "Ковбаса куряча з сиром гриль"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3da"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b8"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ee"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "chicken_cheese_sausage_eftwzf",
+    "productImg": "chicken_cheese_sausage",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "5 pcs",
+        "price": "24.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38b"
+    },
+    "productId": "6f184f47-a821-4cc6-8883-7f22f6b3425f",
+    "productName": {
+      "en": "Pork cutlets",
+      "ua": "Котлети зі свинини"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cf"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce400"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce39e"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "DSC_6538_amcls3",
+    "productImg": "DSC_6538",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "5 pcs",
+        "price": "12.49",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38b"
+    },
+    "productId": "7fbe72d4-bd01-4c19-9584-ac089baa4c7f",
+    "productName": {
+      "en": "Pork and beef cutlets",
+      "ua": "Котлети зі свинини та яловичини"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cf"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce400"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce39e"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "pork_beef_cutlets_bkqg1f",
+    "productImg": "pork_beef_cutlets",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "5 pcs",
+        "price": "14.49",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38b"
+    },
+    "productId": "43b66237-1578-43cb-aeb0-3ecb5cff32f2",
+    "productName": {
+      "en": "Chicken cutlets",
+      "ua": "Котлети курячі"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a7"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cf"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce400"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce39e"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "chicken_cutlets_qno3co",
+    "productImg": "chicken_cutlets",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "6 pcs",
+        "price": "15.49",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38b"
+    },
+    "productId": "c1393f15-e990-4b23-9998-ba2cb6c4ef21",
+    "productName": {
+      "en": "Cutlet «Cordon bleu»",
+      "ua": "Котлета «Кордон Блю»"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a7"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3da"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce400"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce39e"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "DSC_6603_j0gckx",
+    "productImg": "DSC_6603",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "4 pcs",
+        "price": "28.49",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38b"
+    },
+    "productId": "221974a6-546f-40c0-b4b5-8401118919fb",
+    "productName": {
+      "en": "Cutlet «Turkey»",
+      "ua": "Котлета «Індича»"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fa"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce400"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ad"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "turkey_cutlets_ibbvc9",
+    "productImg": "turkey_cutlets",
+    "vega": false,
+    "show": false,
+    "variants": [
+      {
+        "qty": "6 pcs",
+        "price": "24.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38b"
+    },
+    "productId": "c2ded8b3-f12b-49b5-8843-f5ba48ed504a",
+    "productName": {
+      "en": "Fish cutlets",
+      "ua": "Котлета рибні"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce400"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce39e"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "fish_cutlets_be1pkr",
+    "productImg": "fish_cutlets",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "6 pcs",
+        "price": "24.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38b"
+    },
+    "productId": "9c2e7919-6be2-42a6-b1da-ec77f67d6438",
+    "productName": {
+      "en": "Fish cutlets (lent dish)",
+      "ua": "Котлети рибні (до посту)"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce400"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce39e"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "fish_cutlets_be1pkr",
+    "productImg": "",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "6 pcs",
+        "price": "25.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38b"
+    },
+    "productId": "9280fd3e-89c1-4eea-8d62-a233eeb6df91",
+    "productName": {
+      "en": "Burger patty",
+      "ua": "Бургерна котлета"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3dc"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "burger_patty_alvwhy",
+    "productImg": "burger_patty",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "4 pcs",
+        "price": "21.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38b"
+    },
+    "productId": "4fe2eb5e-1ea6-4b1a-844b-93fb84472ebc",
+    "productName": {
+      "en": "Turkey burger patty",
+      "ua": "Бургерна котлета індича"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fa"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3dc"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "Turkey_burger_eyj9tj",
+    "productImg": "Turkey_burger",
+    "vega": false,
+    "show": false,
+    "variants": [
+      {
+        "qty": "4 pcs",
+        "price": "29.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38b"
+    },
+    "productId": "1ca85597-2b16-4e0e-be12-4e22550162f2",
+    "productName": {
+      "en": "Meatballs",
+      "ua": "Тефтелі"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cf"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ea"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "DSC_7788_qpv4v4",
+    "productImg": "DSC_7788",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "8 pcs",
+        "price": "12.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38b"
+    },
+    "productId": "68333802-e776-4cc8-9ca9-768d9b1a8e2a",
+    "productName": {
+      "en": "Kids' quail egg meatballs",
+      "ua": "Фрикадельки дитячі на перепелиних яйцях"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e6"
+      }
+    ],
+    "productImgCDN": "Kids_meatballs_xsjrrj",
+    "productImg": "Kids_meatballs",
+    "vega": false,
+    "show": false,
+    "variants": []
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38b"
+    },
+    "productId": "b2a3b1a6-68e0-40b4-859b-e1f450aac44d",
+    "productName": {
+      "en": "Meatballs «Turkey»",
+      "ua": "Фрикадельки ''Індичі'"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fa"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e0"
+      }
+    ],
+    "productImgCDN": "Turkey_meatballs_o8e5gh",
+    "productImg": "Turkey_meatballs",
+    "vega": false,
+    "show": true,
+    "variants": []
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38b"
+    },
+    "productId": "92111f79-6387-46aa-9e13-bd637c451d53",
+    "productName": {
+      "en": "Meat buckwheat cutlets",
+      "ua": "Гречаники зі свининою"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cf"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce39f"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce39e"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "buckwheat_cutlets_fyiolw",
+    "productImg": "buckwheat_cutlets",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "6 pcs",
+        "price": "14.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38c"
+    },
+    "productId": "b2d7e756-2ec7-47e7-b0f2-d28e466034e7",
+    "productName": {
+      "en": "Pork cabbage rolls",
+      "ua": "Голубці з свининою"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3c7"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ea"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cf"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "pork_cabbage_rolls_zpicqk",
+    "productImg": "pork_cabbage_rolls",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "1 pkg",
+        "price": "26.99",
+        "weight": "1000"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38c"
+    },
+    "productId": "9b4be3b7-a5d3-4326-a442-995a25bdc5d3",
+    "productName": {
+      "en": "Beef cabbage rolls",
+      "ua": "Голубці з телятиною та яловичиною"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3c7"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ea"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "veal_and_beef_cabbage_rolls_cvksyz",
+    "productImg": "veal_and_beef_cabbage_rolls",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "1 pkg",
+        "price": "31.99",
+        "weight": "1000"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38c"
+    },
+    "productId": "5f64ab59-cb7a-42d0-a0a0-8e96a1777817",
+    "productName": {
+      "en": "Mushrooms cabbage rolls",
+      "ua": "Голубці з грибами"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ea"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3c7"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "mushroom_cabbage_rolls_u7ylbj",
+    "productImg": "mushroom_cabbage_rolls",
+    "vega": true,
+    "show": true,
+    "variants": [
+      {
+        "qty": "1 pkg",
+        "price": "29.49",
+        "weight": "1000"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38c"
+    },
+    "productId": "8900b255-f6b2-490b-8854-edb2f19f73c8",
+    "productName": {
+      "en": "Pork stuffed peppers",
+      "ua": "Перець фарширований з м’ясом"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce39c"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ea"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cf"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "stuffed_peppers_uj71fn",
+    "productImg": "stuffed_peppers",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "2 pcs",
+        "price": "14.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38c"
+    },
+    "productId": "7df02154-921b-4335-94f6-7aed99a0248b",
+    "productName": {
+      "en": "Mushrooms stuffed peppers",
+      "ua": "Перець фарширований з грибами"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce39c"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ea"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "mushroom_stuffed_peppers_rl2atz",
+    "productImg": "mushroom_stuffed_peppers",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "2 pcs",
+        "price": "15.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38d"
+    },
+    "productId": "6d5afc5a-bf4c-4b8c-80ca-110a21016fc5",
+    "productName": {
+      "en": "Corn dog with condensed milk",
+      "ua": "Корн дог зі згущеним молоком"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ac"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce403"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce397"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce396"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cc"
+      }
+    ],
+    "productImgCDN": "corndog_scummed_milk_h_kyrj4r",
+    "productImg": "corndog_scummed_milk_h",
+    "vega": false,
+    "show": true,
+    "variants": []
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38d"
+    },
+    "productId": "e8ccc693-f26d-45a2-b7fd-169f407d56b4",
+    "productName": {
+      "en": "Corn dog with apples",
+      "ua": "Корн дог зі яблуком"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce394"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce403"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d2"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d6"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce396"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce397"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ab"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3c5"
+      }
+    ],
+    "productImgCDN": "corndog_apple_h_go7caf",
+    "productImg": "corndog_apple_h",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "6 pcs",
+        "price": "16.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38d"
+    },
+    "productId": "ec90fcb7-9f37-4d74-b00a-c62e71700252",
+    "productName": {
+      "en": "Chocolate corn dog",
+      "ua": "Корн дог з шоколадом"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce403"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b4"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a2"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce396"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce397"
+      }
+    ],
+    "productImgCDN": "DSC_3248_sddpk2",
+    "productImg": "DSC_3248",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "6 pcs",
+        "price": "16.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38d"
+    },
+    "productId": "c84c0c8f-3bdb-41bc-8e72-ac603cdc03b1",
+    "productName": {
+      "en": "Corn dog with ham and cheese",
+      "ua": "Корн дог з шинкою та сиром"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3cb"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3f9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce403"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3de"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce396"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce397"
+      }
+    ],
+    "productImgCDN": "corndog_ham_cheese_h_l8vulv",
+    "productImg": "corndog_ham_cheese_h",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "6 pcs",
+        "price": "16.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38d"
+    },
+    "productId": "0431ccef-7554-49f8-bc77-3262be4600b4",
+    "productName": {
+      "en": "Corn dog with sour cherry",
+      "ua": "Корн дог з вишнею"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce403"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d2"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce396"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce397"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3c5"
+      }
+    ],
+    "productImgCDN": "corndog_cherry_h_gtjjn7",
+    "productImg": "corndog_cherry_h",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "6 pcs",
+        "price": "16.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38d"
+    },
+    "productId": "509239bf-21da-4053-9f98-03a4b25f181d",
+    "productName": {
+      "en": "Donuts",
+      "ua": "Донатс асорті"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3c6"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fb"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce396"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce397"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3aa"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce401"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3f4"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3f5"
+      }
+    ],
+    "productImgCDN": "DSC_5529_afrzrg",
+    "productImg": "DSC_5529",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "6 pcs",
+        "price": "12.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38d"
+    },
+    "productId": "96222314-1770-4c34-b03a-ae55d963bcac",
+    "productName": {
+      "en": "Pancakes",
+      "ua": "Панкейк американський"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fb"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce396"
+      }
+    ],
+    "productImgCDN": "_MG_3534_eye3dy",
+    "productImg": "_MG_3534",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "8 pcs",
+        "price": "4.99",
+        "weight": ""
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38e"
+    },
+    "productId": "27e0b404-ec0a-4c41-a9b6-f6d4295f47b4",
+    "productName": {
+      "en": "Stuffed Mackerel",
+      "ua": "Скумбрія фарширована"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d5"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3f0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "stuffed_mackerel_v8ahnz",
+    "productImg": "stuffed_mackerel",
+    "vega": false,
+    "show": false,
+    "variants": []
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38e"
+    },
+    "productId": "fa6cb2f2-33d1-4ceb-a4ab-b158238820a4",
+    "productName": {
+      "en": "Chicken nuggets",
+      "ua": "Курячі нагетси"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a7"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ae"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3d9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "DSC_6725_irmqyt",
+    "productImg": "DSC_6725",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "700 g",
+        "price": "26.49",
+        "weight": "700"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38e"
+    },
+    "productId": "680efd1c-0227-493f-976f-e87854cb1cb9",
+    "productName": {
+      "en": "Fish nuggets",
+      "ua": "Рибні нагетси"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ae"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fd"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3be"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "DSC_6641_xe9aje",
+    "productImg": "DSC_6641",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "500 g",
+        "price": "26.99",
+        "weight": "500"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38e"
+    },
+    "productId": "308df3ed-a95a-4426-9334-c4b5a3e01ec6",
+    "productName": {
+      "en": "Potato croquettes",
+      "ua": "Крокети"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e5"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce39e"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3bf"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b8"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3df"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce399"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "potato_croquettes_mnkzkz",
+    "productImg": "potato_croquettes",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "36-40 pcs",
+        "price": "21.49",
+        "weight": "700"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38e"
+    },
+    "productId": "944030f4-514b-4bab-986a-2745612b35b2",
+    "productName": {
+      "en": "Cheese potato croquettes",
+      "ua": "Крокети з сиром"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e5"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a6"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce39e"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b8"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "cheese_croquettes_rlbhpk",
+    "productImg": "cheese_croquettes",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "36-40 pcs",
+        "price": "22.99",
+        "weight": "700"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38e"
+    },
+    "productId": "2661fd4b-146e-4377-8177-01fa583935a0",
+    "productName": {
+      "en": "Cheese sticks",
+      "ua": "Сирні палички"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a6"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce39e"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fe"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a5"
+      }
+    ],
+    "productImgCDN": "cheese_sticks_ewqgb7",
+    "productImg": "cheese_sticks",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "16 pcs",
+        "price": "22.99",
+        "weight": "500"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38e"
+    },
+    "productId": "3ff4aec2-1b1c-4253-aa4c-3a3571a4780f",
+    "productName": {
+      "en": "Meatball soup",
+      "ua": "Суп з фрикадельками"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e5"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e0"
+      }
+    ],
+    "productImgCDN": "DSC_7954_rfwiq3",
+    "productImg": "DSC_7954",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "1 kg",
+        "price": "24.99",
+        "weight": "1000"
+      }
+    ]
+  },
+  {
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38e"
+    },
+    "productId": "96bb27d4-fa10-41d8-a308-e42a1fd645ca",
+    "productName": {
+      "en": "Red borscht",
+      "ua": "Борщ червоний"
+    },
+    "ingredients": [
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e5"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce39a"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a1"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3b9"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3c8"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3a3"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3e0"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3f8"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce402"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3fc"
+      },
+      {
+        "$oid": "682b71fbc28a3e5c9c0ce3ec"
+      }
+    ],
+    "productImgCDN": "red_borscht2_iof9f5",
+    "productImg": "red_borscht2",
+    "vega": false,
+    "show": true,
+    "variants": [
+      {
+        "qty": "1 kg",
+        "price": "26.99",
+        "weight": "1000"
+      }
+    ]
+  }
+]

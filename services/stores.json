@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Brandon Store",
+    "location": "155 18th st. (Unit B), Brandon, MB",
+    "phone": "(204) 717-7707",
+    "email": "multicookbrandon@gmail.com",
+    "contacts": [
+      {
+        "id": "96yc5z8g",
+        "name": "address",
+        "description": "155 18th st. (Unit B), Brandon, MB",
+        "icon": "mdi:address-marker-outline",
+        "link": "https://maps.app.goo.gl/S3A9fHfsSoqffDUEA",
+        "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2355.0059349743515!2d-99.96420332393937!3d49.847119830621786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52e7970053872af9%3A0xe79b5369501f13aa!2sMulticook%20Brandon!5e1!3m2!1sen!2sca!4v1729297780370!5m2!1sen!2sca"
+      },
+      {
+        "id": "43vl4js2",
+        "name": "phone",
+        "description": "(204) 717-7707",
+        "icon": "solar:phone-outline",
+        "link": "tel:+12047177707"
+      },
+      {
+        "id": "p1suc42y",
+        "name": "e-mail",
+        "description": "multicookbrandon@gmail.com",
+        "icon": "circum:mail",
+        "link": "mailto:multicookbrandon@gmail.com"
+      },
+      {
+        "id": "b9o4lpmu",
+        "name": "instagram",
+        "description": "instagram.com/multicookbrandon",
+        "icon": "simple-line-icons:social-instagram",
+        "link": "https://www.instagram.com/multicookbrandon?igsh=MXJ5dXh5dmthcnRqbg=="
+      },
+      {
+        "id": "w7lmt0wh",
+        "name": "facebook",
+        "description": "fb.com/61566939935394",
+        "icon": "qlementine-icons:facebook-16",
+        "link": "https://www.facebook.com/profile.php?id=61566939935394"
+      }
+    ],
+    "hours": {
+      "en": ["Mon-Fri: 9AM-8PM", "Sat: 9AM-7PM", "Sun: 11AM-6PM"],
+      "ua": ["Пн-Пт: 9:00-20:00", "Сб: 9:00-19:00", "Нд: 11:00-18:00"]
+    }
+  },
+  {
+    "title": "Winnipeg Store",
+    "location": "to be updated",
+    "phone": "to be updated",
+    "email": "to be updated",
+    "contacts": [
+      {
+        "id": "to-be-updated-1",
+        "name": "address",
+        "description": "to be updated",
+        "icon": "mdi:address-marker-outline",
+        "link": "to be updated",
+        "mapLink": "to be updated"
+      },
+      {
+        "id": "to-be-updated-2",
+        "name": "phone",
+        "description": "to be updated",
+        "icon": "solar:phone-outline",
+        "link": "to be updated"
+      },
+      {
+        "id": "to-be-updated-3",
+        "name": "e-mail",
+        "description": "to be updated",
+        "icon": "circum:mail",
+        "link": "to be updated"
+      },
+      {
+        "id": "to-be-updated-4",
+        "name": "instagram",
+        "description": "to be updated",
+        "icon": "simple-line-icons:social-instagram",
+        "link": "to be updated"
+      },
+      {
+        "id": "to-be-updated-5",
+        "name": "facebook",
+        "description": "to be updated",
+        "icon": "qlementine-icons:facebook-16",
+        "link": "to be updated"
+      }
+    ],
+    "hours": {
+      "en": ["to be updated"],
+      "ua": ["to be updated"]
+    }
+  }
+]

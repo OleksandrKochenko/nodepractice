@@ -75,7 +75,7 @@
         "variants": [
           {
             "qty": "32-34 pcs",
-            "price": "21.49",
+            "price": "22.49",
             "weight": "700"
           }
         ]
@@ -98,7 +98,7 @@
         "variants": [
           {
             "qty": "32-34 pcs",
-            "price": "21.49",
+            "price": "22.49",
             "weight": "700"
           }
         ]
@@ -286,7 +286,7 @@
         "variants": [
           {
             "qty": "30-32 pcs",
-            "price": "20.49",
+            "price": "21.49",
             "weight": "700"
           },
           {
@@ -715,29 +715,6 @@
             "weight": ""
           }
         ]
-      },
-      {
-        "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
-        "productId": "c7dd585c-e99e-4fbd-9114-68c20d216086",
-        "productName": {
-          "en": "Beef khinkali",
-          "ua": "Хінкалі зі яловичини"
-        },
-        "ingredients": {
-          "en": "Wheat flour, ground beef, pork lard, water, onions, fresh herbs, potato starch, suneli spice, salt, ground black and red pepper, dry ground garlic, Cajun seasoning, barbecue seasoning",
-          "ua": "яловичина знежилована (37%), борошно пшеничне вищого ґатунку (26%), цибуля ріпчаста, сало свинне, крохмаль, вода питна, зелень свіжа (кінза), паприка копчена, приправа Гриль, приправа Аджика, перець чилі мелений, часник сухий, сіль кухонна, перець чорний мелений"
-        },
-        "productImgCDN": "DSC_8076_xk4eps",
-        "productImg": "DSC_8076",
-        "vega": false,
-        "show": true,
-        "variants": [
-          {
-            "qty": "4 pcs",
-            "price": "17.99",
-            "weight": ""
-          }
-        ]
       }
     ]
   },
@@ -766,7 +743,7 @@
         "variants": [
           {
             "qty": "8 pcs",
-            "price": "16.49",
+            "price": "15.99",
             "weight": ""
           }
         ]
@@ -789,7 +766,7 @@
         "variants": [
           {
             "qty": "8 pcs",
-            "price": "16.49",
+            "price": "15.99",
             "weight": ""
           }
         ]
@@ -835,7 +812,7 @@
         "variants": [
           {
             "qty": "6 pcs",
-            "price": "18.49",
+            "price": "16.99",
             "weight": ""
           }
         ]
@@ -875,7 +852,7 @@
         "variants": [
           {
             "qty": "4 pcs",
-            "price": "14.99",
+            "price": "15.99",
             "weight": ""
           }
         ]
@@ -949,7 +926,7 @@
         "variants": [
           {
             "qty": "6 pcs",
-            "price": "18.99",
+            "price": "16.99",
             "weight": ""
           }
         ]
@@ -979,29 +956,6 @@
       },
       {
         "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
-        "productId": "f416098b-8b2d-4b24-b6a7-92cb986c7231",
-        "productName": {
-          "en": "Benderiki chicken and mozzarella sheese",
-          "ua": "Бендерики з куркою та сиром моцарелла"
-        },
-        "ingredients": {
-          "en": "milk, chicken breast, onions, wheat flour, eggs, water, mayonnaise, mozzarella cheese, butter, canola oil, fresh herbs, salt, white sugar, black ground pepper",
-          "ua": "молоко коров'яче (32%), філе курки (14%), цибуля ріпчаста (14%), борошно пшеничне вищого ґатунку (13%), яйця курячі (10%), вода питна, майонез, сир твердий чеддер (3%), масло вершкове, олія соняшникова рафінована, зелень свіжа, сіль кухонна, цукор білий кристалічний, перець чорний мелений"
-        },
-        "productImgCDN": "DSC_6702_jthnky",
-        "productImg": "DSC_6702",
-        "vega": false,
-        "show": true,
-        "variants": [
-          {
-            "qty": "4 pcs",
-            "price": "11.49",
-            "weight": ""
-          }
-        ]
-      },
-      {
-        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
         "productId": "99faf933-d23f-4696-bc7b-3e0fbee4c191",
         "productName": {
           "en": "Sweet cottage cheese crepes",
@@ -1018,7 +972,7 @@
         "variants": [
           {
             "qty": "5 pcs",
-            "price": "17.99",
+            "price": "16.99",
             "weight": ""
           }
         ]
@@ -1041,7 +995,7 @@
         "variants": [
           {
             "qty": "5 pcs",
-            "price": "17.99",
+            "price": "16.99",
             "weight": ""
           }
         ]
@@ -1110,7 +1064,7 @@
         "variants": [
           {
             "qty": "6 pcs",
-            "price": "15.99",
+            "price": "14.99",
             "weight": ""
           }
         ]
@@ -1165,7 +1119,7 @@
         "variants": [
           {
             "qty": "4 pcs",
-            "price": "13.99",
+            "price": "12.99",
             "weight": ""
           }
         ]
@@ -1188,7 +1142,7 @@
         "variants": [
           {
             "qty": "4 pcs",
-            "price": "14.99",
+            "price": "13.99",
             "weight": ""
           }
         ]
@@ -1334,7 +1288,7 @@
         "variants": [
           {
             "qty": "6 pcs",
-            "price": "15.99",
+            "price": "14.99",
             "weight": ""
           }
         ]
@@ -1380,7 +1334,7 @@
         "variants": [
           {
             "qty": "6 pcs",
-            "price": "15.99",
+            "price": "12.99",
             "weight": ""
           }
         ]
@@ -1403,7 +1357,7 @@
         "variants": [
           {
             "qty": "6 pcs",
-            "price": "17.49",
+            "price": "16.99",
             "weight": ""
           }
         ]
@@ -1530,7 +1484,7 @@
         "variants": [
           {
             "qty": "5 pcs",
-            "price": "14.49",
+            "price": "13.99",
             "weight": ""
           }
         ]
@@ -1553,7 +1507,7 @@
         "variants": [
           {
             "qty": "6 pcs",
-            "price": "15.49",
+            "price": "14.99",
             "weight": ""
           }
         ]
@@ -1576,7 +1530,7 @@
         "variants": [
           {
             "qty": "4 pcs",
-            "price": "28.49",
+            "price": "25.99",
             "weight": ""
           }
         ]
@@ -1803,7 +1757,7 @@
         "variants": [
           {
             "qty": "1 pkg",
-            "price": "26.99",
+            "price": "25.99",
             "weight": "1000"
           }
         ]
@@ -1826,7 +1780,7 @@
         "variants": [
           {
             "qty": "1 pkg",
-            "price": "31.99",
+            "price": "29.99",
             "weight": "1000"
           }
         ]
@@ -1849,7 +1803,7 @@
         "variants": [
           {
             "qty": "1 pkg",
-            "price": "29.49",
+            "price": "26.99",
             "weight": "1000"
           }
         ]
@@ -1895,7 +1849,7 @@
         "variants": [
           {
             "qty": "2 pcs",
-            "price": "15.99",
+            "price": "14.99",
             "weight": ""
           }
         ]
@@ -1941,7 +1895,7 @@
         "productImg": "corndog_apple_h",
         "vega": false,
         "show": true,
-        "variants": [{ "qty": "6 pcs", "price": "16.99", "weight": "" }]
+        "variants": [{ "qty": "6 pcs", "price": "17.49", "weight": "" }]
       },
       {
         "categoryId": "67246e97-f888-4ff0-ad0d-a82c5064c7ee",
@@ -1958,7 +1912,7 @@
         "productImg": "DSC_3248",
         "vega": false,
         "show": true,
-        "variants": [{ "qty": "6 pcs", "price": "16.99", "weight": "" }]
+        "variants": [{ "qty": "6 pcs", "price": "15.99", "weight": "" }]
       },
       {
         "categoryId": "67246e97-f888-4ff0-ad0d-a82c5064c7ee",
@@ -2176,7 +2130,7 @@
         "variants": [
           {
             "qty": "16 pcs",
-            "price": "22.99",
+            "price": "20.99",
             "weight": "500"
           }
         ]

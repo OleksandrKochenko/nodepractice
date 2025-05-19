@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "682b7165c28a3e5c9c0ce385"
+  },
+  "name": {
+    "en": "Perogies",
+    "ua": "Вареники"
+  }
+},
+{
+  "_id": {
+    "$oid": "682b7165c28a3e5c9c0ce386"
+  },
+  "name": {
+    "en": "Dumplings (pelmeni)",
+    "ua": "Пельмені"
+  }
+},
+{
+  "_id": {
+    "$oid": "682b7165c28a3e5c9c0ce387"
+  },
+  "name": {
+    "en": "Pancakes & Crepes",
+    "ua": "Сирники та млинці"
+  }
+},
+{
+  "_id": {
+    "$oid": "682b7165c28a3e5c9c0ce388"
+  },
+  "name": {
+    "en": "Chebureki",
+    "ua": "Чебуреки"
+  }
+},
+{
+  "_id": {
+    "$oid": "682b7165c28a3e5c9c0ce389"
+  },
+  "name": {
+    "en": "Hashbrowns & Zrazes",
+    "ua": "Деруни та зрази"
+  }
+},
+{
+  "_id": {
+    "$oid": "682b7165c28a3e5c9c0ce38a"
+  },
+  "name": {
+    "en": "Sausage",
+    "ua": "Ковбаси"
+  }
+},
+{
+  "_id": {
+    "$oid": "682b7165c28a3e5c9c0ce38b"
+  },
+  "name": {
+    "en": "Cutlets & meatballs",
+    "ua": "Котлети та фрикадельки"
+  }
+},
+{
+  "_id": {
+    "$oid": "682b7165c28a3e5c9c0ce38c"
+  },
+  "name": {
+    "en": "Cabbage rolls and stuffed peppers",
+    "ua": "Голубці та перець"
+  }
+},
+{
+  "_id": {
+    "$oid": "682b7165c28a3e5c9c0ce38d"
+  },
+  "name": {
+    "en": "Corn dog, donuts, pancakes",
+    "ua": "Корн доги, донатси, панкейки"
+  }
+},
+{
+  "_id": {
+    "$oid": "682b7165c28a3e5c9c0ce38e"
+  },
+  "name": {
+    "en": "Other",
+    "ua": "Інше"
+  }
+}]

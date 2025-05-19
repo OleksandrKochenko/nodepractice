@@ -1,13 +1,17 @@
 [
   {
-    "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce385"
+    },
     "categoryName": {
       "en": "Perogies",
       "ua": "Вареники"
     },
     "products": [
       {
-        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce385"
+        },
         "productId": "61d1f85e-b67c-4cf9-8ce8-41acff725317",
         "productName": {
           "en": "Sauerkraut and  wild mushrooms perogies VEGA",
@@ -35,7 +39,9 @@
         ]
       },
       {
-        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce385"
+        },
         "productId": "7ad408f2-3571-4152-9347-4831d92dff09",
         "productName": {
           "en": "Spinach and cottage cheese perogies",
@@ -58,7 +64,9 @@
         ]
       },
       {
-        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce385"
+        },
         "productId": "2b6d9bde-85a9-4078-b93f-9c31268a2570",
         "productName": {
           "en": "Cottage cheese perogies",
@@ -81,7 +89,9 @@
         ]
       },
       {
-        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce385"
+        },
         "productId": "8429bcb0-57eb-45c5-aacb-8b009099f6f2",
         "productName": {
           "en": "Sweet cottage cheese perogies",
@@ -104,7 +114,9 @@
         ]
       },
       {
-        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce385"
+        },
         "productId": "243e3fd1-ce61-4ec1-93b3-d95b67a47d55",
         "productName": {
           "en": "Sour cherry perogies VEGA",
@@ -132,7 +144,9 @@
         ]
       },
       {
-        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce385"
+        },
         "productId": "cbb8992f-809a-45cb-bfa5-cf278974e926",
         "productName": {
           "en": "Blueberry perogies VEGA",
@@ -155,7 +169,9 @@
         ]
       },
       {
-        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce385"
+        },
         "productId": "2531969e-1c37-41a8-9422-6e1c719f059e",
         "productName": {
           "en": "Meat perogies",
@@ -178,7 +194,9 @@
         ]
       },
       {
-        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce385"
+        },
         "productId": "c9b97297-cf7a-44f6-87a1-86eaccfb53b1",
         "productName": {
           "en": "Liver perogies",
@@ -201,7 +219,9 @@
         ]
       },
       {
-        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce385"
+        },
         "productId": "9ab16702-0fc4-4ea5-afb1-b4881133aa91",
         "productName": {
           "en": "Potato perogies",
@@ -224,7 +244,9 @@
         ]
       },
       {
-        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce385"
+        },
         "productId": "5adaed06-256d-4464-b8e5-1408a7f951aa",
         "productName": {
           "en": "Potato and bacon perogies",
@@ -252,7 +274,9 @@
         ]
       },
       {
-        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce385"
+        },
         "productId": "29a10fae-47e3-463f-97eb-afa4b696d02f",
         "productName": {
           "en": "Potato and butter perogies",
@@ -269,7 +293,9 @@
         "variants": []
       },
       {
-        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce385"
+        },
         "productId": "cddde6a1-025e-45c5-85a2-9e5a6c71744e",
         "productName": {
           "en": "Potato and cottage cheese perogies",
@@ -297,7 +323,9 @@
         ]
       },
       {
-        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce385"
+        },
         "productId": "a76dd4d1-f480-46b7-8885-c860020efcab",
         "productName": {
           "en": "Potato and mushrooms perogies",
@@ -325,7 +353,9 @@
         ]
       },
       {
-        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce385"
+        },
         "productId": "24a3b58d-5c4d-4674-adf2-7d2be88214ad",
         "productName": {
           "en": "Potato and wild mushrooms perogies",
@@ -353,7 +383,9 @@
         ]
       },
       {
-        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce385"
+        },
         "productId": "911042d8-d471-400c-85cb-ebcd726bc451",
         "productName": {
           "en": "Potato with cheddar cheese",
@@ -381,7 +413,9 @@
         ]
       },
       {
-        "categoryId": "d08cf2e6-ffd3-45d0-9c9c-4c50ea13e230",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce385"
+        },
         "productId": "6287ea65-b07c-4f2d-9fef-17f11a803aec",
         "productName": {
           "en": "Sauerkraut perogies VEGA",
@@ -411,14 +445,18 @@
     ]
   },
   {
-    "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce386"
+    },
     "categoryName": {
       "en": "Dumplings (pelmeni)",
       "ua": "Пельмені"
     },
     "products": [
       {
-        "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce386"
+        },
         "productId": "d36006e0-f738-4c51-baba-a7e94ba9f285",
         "productName": {
           "en": "Pork dumplings (pelmeni)",
@@ -446,7 +484,9 @@
         ]
       },
       {
-        "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce386"
+        },
         "productId": "7655040d-c095-4c27-bc0b-56a9be32442c",
         "productName": {
           "en": "Pork and beef dumplings (pelmeni)",
@@ -474,7 +514,9 @@
         ]
       },
       {
-        "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce386"
+        },
         "productId": "25b2392b-54fb-480e-bf77-8bc9ec97225b",
         "productName": {
           "en": "Veal dumplings (pelmeni)",
@@ -491,7 +533,9 @@
         "variants": []
       },
       {
-        "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce386"
+        },
         "productId": "a56c88df-bc2d-44a6-99ad-5595d43c8ea3",
         "productName": {
           "en": "Chicken and pork dumplings (pelmeni)",
@@ -519,7 +563,9 @@
         ]
       },
       {
-        "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce386"
+        },
         "productId": "3f299024-7d20-4648-bf42-35697e41c686",
         "productName": {
           "en": "Corn-flour chicken dumplings (pelmeni)",
@@ -547,7 +593,9 @@
         ]
       },
       {
-        "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce386"
+        },
         "productId": "acb1bde9-8467-45fd-bbb9-7ef792687da6",
         "productName": {
           "en": "Kids' chicken dumplings (pelmeni)",
@@ -575,7 +623,9 @@
         ]
       },
       {
-        "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce386"
+        },
         "productId": "9fc531c2-b810-4a71-8c00-83dd8e698d27",
         "productName": {
           "en": "Turkey dumplings (pelmeni)",
@@ -603,7 +653,9 @@
         ]
       },
       {
-        "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce386"
+        },
         "productId": "35901a40-d5db-4a27-beec-018f20e7d70b",
         "productName": {
           "en": "Three Meats dumplings (pelmeni)",
@@ -631,7 +683,9 @@
         ]
       },
       {
-        "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce386"
+        },
         "productId": "11ea7870-7322-4c54-8fb1-6f3d5496aded",
         "productName": {
           "en": "Salmon and cottage cheese dumplings (pelmeni)",
@@ -654,7 +708,9 @@
         ]
       },
       {
-        "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce386"
+        },
         "productId": "7800bee5-83d0-4c44-aeca-390ac7493282",
         "productName": {
           "en": "Salmon and spinach dumplings (pelmeni)",
@@ -677,7 +733,9 @@
         ]
       },
       {
-        "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce386"
+        },
         "productId": "ed94d77c-190a-4266-9d46-500ae6ef4b10",
         "productName": {
           "en": "Fish dumplings (pelmeni) (lent dish)",
@@ -694,7 +752,9 @@
         "variants": []
       },
       {
-        "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce386"
+        },
         "productId": "a807422f-4866-4e94-90ed-889da70ad8b6",
         "productName": {
           "en": "Pork khinkali",
@@ -717,7 +777,9 @@
         ]
       },
       {
-        "categoryId": "95e6e0db-2fae-489a-998e-45094ca77db5",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce386"
+        },
         "productId": "c7dd585c-e99e-4fbd-9114-68c20d216086",
         "productName": {
           "en": "Beef khinkali",
@@ -742,14 +804,18 @@
     ]
   },
   {
-    "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce387"
+    },
     "categoryName": {
       "en": "Pancakes & Crepes",
       "ua": "Сирники та млинці"
     },
     "products": [
       {
-        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce387"
+        },
         "productId": "bc7afde6-8c31-4757-b551-07402af4684c",
         "productName": {
           "en": "Syrnyky (cottage cheese pancakes)",
@@ -772,7 +838,9 @@
         ]
       },
       {
-        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce387"
+        },
         "productId": "afe0d65a-511c-43fa-8cee-9fba1e38eaeb",
         "productName": {
           "en": "Syrnyky (cottage cheese pancakes) with raisins",
@@ -795,7 +863,9 @@
         ]
       },
       {
-        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce387"
+        },
         "productId": "569e437f-dfb2-4434-bc37-ddcc05fb0745",
         "productName": {
           "en": "Meat Crepes",
@@ -818,7 +888,9 @@
         ]
       },
       {
-        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce387"
+        },
         "productId": "7d71b06e-01c0-4b8a-925b-f86e9aa5bd55",
         "productName": {
           "en": "Chicken and mushroom crepes",
@@ -841,7 +913,9 @@
         ]
       },
       {
-        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce387"
+        },
         "productId": "348c8252-7b94-4f59-8e03-c11ef9d870a3",
         "productName": {
           "en": "Liver crepes",
@@ -858,7 +932,9 @@
         "variants": []
       },
       {
-        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce387"
+        },
         "productId": "97b3a171-e085-43fd-9160-322b3406a164",
         "productName": {
           "en": "Ham and mozzarella cheese crepes",
@@ -881,7 +957,9 @@
         ]
       },
       {
-        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce387"
+        },
         "productId": "672d4c8b-5401-49eb-90a5-77f98fb1a5ab",
         "productName": {
           "en": "Salmon and spinach crepes",
@@ -898,7 +976,9 @@
         "variants": []
       },
       {
-        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce387"
+        },
         "productId": "5366558e-631d-4355-8689-eb7e9f26be17",
         "productName": {
           "en": "Salmon and cottage cheese crepes",
@@ -915,7 +995,9 @@
         "variants": []
       },
       {
-        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce387"
+        },
         "productId": "60164de0-7860-4a2f-b028-84755e6e3200",
         "productName": {
           "en": "Bryndza cheese and fresh herbs crepes",
@@ -932,7 +1014,9 @@
         "variants": []
       },
       {
-        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce387"
+        },
         "productId": "c0553ed7-8d20-4f28-8f05-912fedc2b718",
         "productName": {
           "en": "Spinach and cream cheese crepes",
@@ -955,7 +1039,9 @@
         ]
       },
       {
-        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce387"
+        },
         "productId": "3c1cc3c4-6c59-49ae-a75b-69f48ae6e933",
         "productName": {
           "en": "Benderiki",
@@ -978,7 +1064,9 @@
         ]
       },
       {
-        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce387"
+        },
         "productId": "f416098b-8b2d-4b24-b6a7-92cb986c7231",
         "productName": {
           "en": "Benderiki chicken and mozzarella sheese",
@@ -1001,7 +1089,9 @@
         ]
       },
       {
-        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce387"
+        },
         "productId": "99faf933-d23f-4696-bc7b-3e0fbee4c191",
         "productName": {
           "en": "Sweet cottage cheese crepes",
@@ -1024,7 +1114,9 @@
         ]
       },
       {
-        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce387"
+        },
         "productId": "76509377-3ddd-43c2-b110-2c49a1a9bc5b",
         "productName": {
           "en": "Cottage cheese and blueberry crepes",
@@ -1047,7 +1139,9 @@
         ]
       },
       {
-        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce387"
+        },
         "productId": "934372b0-4a06-4676-9cab-f64a184fe49e",
         "productName": {
           "en": "Cottage cheese and strawberry crepes",
@@ -1070,7 +1164,9 @@
         ]
       },
       {
-        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce387"
+        },
         "productId": "8c9ed949-1e73-4c61-a442-fc67d2e8e32a",
         "productName": {
           "en": "Poppy seeds and sour cherry crepes",
@@ -1093,7 +1189,9 @@
         ]
       },
       {
-        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce387"
+        },
         "productId": "5e32d07c-b37b-4e1d-9fdf-e11c4c94b90c",
         "productName": {
           "en": "Caramelized apple crepes",
@@ -1116,7 +1214,9 @@
         ]
       },
       {
-        "categoryId": "efabc32b-15b8-4238-af2c-21da64255b29",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce387"
+        },
         "productId": "963bcbbc-4f30-4385-a38e-d294104c53a2",
         "productName": {
           "en": "Banana and condensed milk crepes",
@@ -1141,14 +1241,18 @@
     ]
   },
   {
-    "categoryId": "aec9cef2-6162-4415-995f-f51df7825c6c",
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce388"
+    },
     "categoryName": {
       "en": "Chebureki",
       "ua": "Чебуреки"
     },
     "products": [
       {
-        "categoryId": "aec9cef2-6162-4415-995f-f51df7825c6c",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce388"
+        },
         "productId": "260c090c-e16d-4a02-b39e-197216664f9a",
         "productName": {
           "en": "Pork chebureki",
@@ -1171,7 +1275,9 @@
         ]
       },
       {
-        "categoryId": "aec9cef2-6162-4415-995f-f51df7825c6c",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce388"
+        },
         "productId": "efe4828a-ec1a-45be-9998-769a89a11f53",
         "productName": {
           "en": "Pork, mozzarella cheese and tomato chebureki",
@@ -1194,7 +1300,9 @@
         ]
       },
       {
-        "categoryId": "aec9cef2-6162-4415-995f-f51df7825c6c",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce388"
+        },
         "productId": "03e6bf8d-bcf2-46ea-9d47-f64b7da9ffdd",
         "productName": {
           "en": "Fish chebureki",
@@ -1211,7 +1319,9 @@
         "variants": []
       },
       {
-        "categoryId": "aec9cef2-6162-4415-995f-f51df7825c6c",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce388"
+        },
         "productId": "5f7119c3-4557-45f8-9f47-0faeb52bbd27",
         "productName": {
           "en": "Mozzarella/cottage cheese and fresh herbs chebureki",
@@ -1234,7 +1344,9 @@
         ]
       },
       {
-        "categoryId": "aec9cef2-6162-4415-995f-f51df7825c6c",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce388"
+        },
         "productId": "b282c233-9268-4347-9455-fb5b02576759",
         "productName": {
           "en": "Sauerkraut chebureki",
@@ -1259,14 +1371,18 @@
     ]
   },
   {
-    "categoryId": "0bed5d0b-83d6-42da-8e2f-eb450d377ba7",
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce389"
+    },
     "categoryName": {
       "en": "Hashbrowns & Zrazes",
       "ua": "Деруни та зрази"
     },
     "products": [
       {
-        "categoryId": "0bed5d0b-83d6-42da-8e2f-eb450d377ba7",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce389"
+        },
         "productId": "a65ba49a-0fde-43e7-99d0-02fe8776d9a9",
         "productName": {
           "en": "Potato hashbrowns",
@@ -1280,10 +1396,18 @@
         "productImg": "potato_hashbrowns",
         "vega": false,
         "show": true,
-        "variants": [{ "qty": "6 pcs", "price": "11.99", "weight": "" }]
+        "variants": [
+          {
+            "qty": "6 pcs",
+            "price": "11.99",
+            "weight": ""
+          }
+        ]
       },
       {
-        "categoryId": "0bed5d0b-83d6-42da-8e2f-eb450d377ba7",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce389"
+        },
         "productId": "4074125b-7ea0-417a-8a18-70dc6c1e0f2a",
         "productName": {
           "en": "Meat potato hashbrowns",
@@ -1297,10 +1421,18 @@
         "productImg": "meat_potato_hashbrowns",
         "vega": false,
         "show": true,
-        "variants": [{ "qty": "6 pcs", "price": "13.99", "weight": "" }]
+        "variants": [
+          {
+            "qty": "6 pcs",
+            "price": "13.99",
+            "weight": ""
+          }
+        ]
       },
       {
-        "categoryId": "0bed5d0b-83d6-42da-8e2f-eb450d377ba7",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce389"
+        },
         "productId": "a888a85c-92b9-47f9-855b-09cc6305572d",
         "productName": {
           "en": "Mushroom potato hashbrowns",
@@ -1314,10 +1446,18 @@
         "productImg": "mushroom_hashbrowns",
         "vega": false,
         "show": true,
-        "variants": [{ "qty": "6 pcs", "price": "14.99", "weight": "" }]
+        "variants": [
+          {
+            "qty": "6 pcs",
+            "price": "14.99",
+            "weight": ""
+          }
+        ]
       },
       {
-        "categoryId": "0bed5d0b-83d6-42da-8e2f-eb450d377ba7",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce389"
+        },
         "productId": "775c1747-2059-4798-8a7d-aa13d09fe65f",
         "productName": {
           "en": "Meat zrazes",
@@ -1340,7 +1480,9 @@
         ]
       },
       {
-        "categoryId": "0bed5d0b-83d6-42da-8e2f-eb450d377ba7",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce389"
+        },
         "productId": "8122e679-f46d-4fde-bb6a-15a69e50491a",
         "productName": {
           "en": "Liver zrazes",
@@ -1363,7 +1505,9 @@
         ]
       },
       {
-        "categoryId": "0bed5d0b-83d6-42da-8e2f-eb450d377ba7",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce389"
+        },
         "productId": "c6195d72-8d3d-446e-a85c-11c315f225a7",
         "productName": {
           "en": "Sauerkraut zrazes",
@@ -1386,7 +1530,9 @@
         ]
       },
       {
-        "categoryId": "0bed5d0b-83d6-42da-8e2f-eb450d377ba7",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce389"
+        },
         "productId": "4d8521ea-30d7-44b9-9b4e-266c4b1704f0",
         "productName": {
           "en": "Mushroom zrazes",
@@ -1411,14 +1557,18 @@
     ]
   },
   {
-    "categoryId": "07348748-0c02-4d45-ba45-3095abfacb53",
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38a"
+    },
     "categoryName": {
       "en": "Sausage",
       "ua": "Ковбаси"
     },
     "products": [
       {
-        "categoryId": "07348748-0c02-4d45-ba45-3095abfacb53",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38a"
+        },
         "productId": "ed38a1dd-13fc-44e9-ac32-bc51d4055f1d",
         "productName": {
           "en": "Home made sausage",
@@ -1435,7 +1585,9 @@
         "variants": []
       },
       {
-        "categoryId": "07348748-0c02-4d45-ba45-3095abfacb53",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38a"
+        },
         "productId": "652e6c6e-fa4c-45dd-ad73-defd7ac7b1fa",
         "productName": {
           "en": "Pork sausage",
@@ -1458,7 +1610,9 @@
         ]
       },
       {
-        "categoryId": "07348748-0c02-4d45-ba45-3095abfacb53",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38a"
+        },
         "productId": "9d31205b-a02e-4d5f-912a-04eae5ffad37",
         "productName": {
           "en": "Chicken and mozzarella cheese sausage",
@@ -1483,14 +1637,18 @@
     ]
   },
   {
-    "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38b"
+    },
     "categoryName": {
       "en": "Cutlets & meatballs",
       "ua": "Котлети та фрикадельки"
     },
     "products": [
       {
-        "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38b"
+        },
         "productId": "6f184f47-a821-4cc6-8883-7f22f6b3425f",
         "productName": {
           "en": "Pork cutlets",
@@ -1513,7 +1671,9 @@
         ]
       },
       {
-        "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38b"
+        },
         "productId": "7fbe72d4-bd01-4c19-9584-ac089baa4c7f",
         "productName": {
           "en": "Pork and beef cutlets",
@@ -1536,7 +1696,9 @@
         ]
       },
       {
-        "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38b"
+        },
         "productId": "43b66237-1578-43cb-aeb0-3ecb5cff32f2",
         "productName": {
           "en": "Chicken cutlets",
@@ -1559,7 +1721,9 @@
         ]
       },
       {
-        "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38b"
+        },
         "productId": "c1393f15-e990-4b23-9998-ba2cb6c4ef21",
         "productName": {
           "en": "Cutlet «Cordon bleu»",
@@ -1582,7 +1746,9 @@
         ]
       },
       {
-        "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38b"
+        },
         "productId": "221974a6-546f-40c0-b4b5-8401118919fb",
         "productName": {
           "en": "Cutlet «Turkey»",
@@ -1605,7 +1771,9 @@
         ]
       },
       {
-        "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38b"
+        },
         "productId": "c2ded8b3-f12b-49b5-8843-f5ba48ed504a",
         "productName": {
           "en": "Fish cutlets",
@@ -1628,7 +1796,9 @@
         ]
       },
       {
-        "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38b"
+        },
         "productId": "9c2e7919-6be2-42a6-b1da-ec77f67d6438",
         "productName": {
           "en": "Fish cutlets (lent dish)",
@@ -1651,7 +1821,9 @@
         ]
       },
       {
-        "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38b"
+        },
         "productId": "9280fd3e-89c1-4eea-8d62-a233eeb6df91",
         "productName": {
           "en": "Burger patty",
@@ -1674,7 +1846,9 @@
         ]
       },
       {
-        "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38b"
+        },
         "productId": "4fe2eb5e-1ea6-4b1a-844b-93fb84472ebc",
         "productName": {
           "en": "Turkey burger patty",
@@ -1697,7 +1871,9 @@
         ]
       },
       {
-        "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38b"
+        },
         "productId": "1ca85597-2b16-4e0e-be12-4e22550162f2",
         "productName": {
           "en": "Meatballs",
@@ -1720,7 +1896,9 @@
         ]
       },
       {
-        "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38b"
+        },
         "productId": "68333802-e776-4cc8-9ca9-768d9b1a8e2a",
         "productName": {
           "en": "Kids' quail egg meatballs",
@@ -1737,7 +1915,9 @@
         "variants": []
       },
       {
-        "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38b"
+        },
         "productId": "b2a3b1a6-68e0-40b4-859b-e1f450aac44d",
         "productName": {
           "en": "Meatballs «Turkey»",
@@ -1754,7 +1934,9 @@
         "variants": []
       },
       {
-        "categoryId": "34768e06-0631-46b7-944f-d23defe95770",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38b"
+        },
         "productId": "92111f79-6387-46aa-9e13-bd637c451d53",
         "productName": {
           "en": "Meat buckwheat cutlets",
@@ -1779,14 +1961,18 @@
     ]
   },
   {
-    "categoryId": "3cc0575a-e1c8-413c-870d-cafb5893d107",
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38c"
+    },
     "categoryName": {
       "en": "Cabbage rolls and stuffed peppers",
       "ua": "Голубці та перець"
     },
     "products": [
       {
-        "categoryId": "3cc0575a-e1c8-413c-870d-cafb5893d107",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38c"
+        },
         "productId": "b2d7e756-2ec7-47e7-b0f2-d28e466034e7",
         "productName": {
           "en": "Pork cabbage rolls",
@@ -1809,7 +1995,9 @@
         ]
       },
       {
-        "categoryId": "3cc0575a-e1c8-413c-870d-cafb5893d107",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38c"
+        },
         "productId": "9b4be3b7-a5d3-4326-a442-995a25bdc5d3",
         "productName": {
           "en": "Beef cabbage rolls",
@@ -1832,7 +2020,9 @@
         ]
       },
       {
-        "categoryId": "3cc0575a-e1c8-413c-870d-cafb5893d107",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38c"
+        },
         "productId": "5f64ab59-cb7a-42d0-a0a0-8e96a1777817",
         "productName": {
           "en": "Mushrooms cabbage rolls",
@@ -1855,7 +2045,9 @@
         ]
       },
       {
-        "categoryId": "3cc0575a-e1c8-413c-870d-cafb5893d107",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38c"
+        },
         "productId": "8900b255-f6b2-490b-8854-edb2f19f73c8",
         "productName": {
           "en": "Pork stuffed peppers",
@@ -1878,7 +2070,9 @@
         ]
       },
       {
-        "categoryId": "3cc0575a-e1c8-413c-870d-cafb5893d107",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38c"
+        },
         "productId": "7df02154-921b-4335-94f6-7aed99a0248b",
         "productName": {
           "en": "Mushrooms stuffed peppers",
@@ -1903,14 +2097,18 @@
     ]
   },
   {
-    "categoryId": "67246e97-f888-4ff0-ad0d-a82c5064c7ee",
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38d"
+    },
     "categoryName": {
       "en": "Corn dog, donuts, pancakes",
       "ua": "Корн доги, донатси, панкейки"
     },
     "products": [
       {
-        "categoryId": "67246e97-f888-4ff0-ad0d-a82c5064c7ee",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38d"
+        },
         "productId": "6d5afc5a-bf4c-4b8c-80ca-110a21016fc5",
         "productName": {
           "en": "Corn dog with condensed milk",
@@ -1927,7 +2125,9 @@
         "variants": []
       },
       {
-        "categoryId": "67246e97-f888-4ff0-ad0d-a82c5064c7ee",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38d"
+        },
         "productId": "e8ccc693-f26d-45a2-b7fd-169f407d56b4",
         "productName": {
           "en": "Corn dog with apples",
@@ -1941,10 +2141,18 @@
         "productImg": "corndog_apple_h",
         "vega": false,
         "show": true,
-        "variants": [{ "qty": "6 pcs", "price": "16.99", "weight": "" }]
+        "variants": [
+          {
+            "qty": "6 pcs",
+            "price": "16.99",
+            "weight": ""
+          }
+        ]
       },
       {
-        "categoryId": "67246e97-f888-4ff0-ad0d-a82c5064c7ee",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38d"
+        },
         "productId": "ec90fcb7-9f37-4d74-b00a-c62e71700252",
         "productName": {
           "en": "Chocolate corn dog",
@@ -1958,10 +2166,18 @@
         "productImg": "DSC_3248",
         "vega": false,
         "show": true,
-        "variants": [{ "qty": "6 pcs", "price": "16.99", "weight": "" }]
+        "variants": [
+          {
+            "qty": "6 pcs",
+            "price": "16.99",
+            "weight": ""
+          }
+        ]
       },
       {
-        "categoryId": "67246e97-f888-4ff0-ad0d-a82c5064c7ee",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38d"
+        },
         "productId": "c84c0c8f-3bdb-41bc-8e72-ac603cdc03b1",
         "productName": {
           "en": "Corn dog with ham and cheese",
@@ -1975,10 +2191,18 @@
         "productImg": "corndog_ham_cheese_h",
         "vega": false,
         "show": true,
-        "variants": [{ "qty": "6 pcs", "price": "16.99", "weight": "" }]
+        "variants": [
+          {
+            "qty": "6 pcs",
+            "price": "16.99",
+            "weight": ""
+          }
+        ]
       },
       {
-        "categoryId": "67246e97-f888-4ff0-ad0d-a82c5064c7ee",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38d"
+        },
         "productId": "0431ccef-7554-49f8-bc77-3262be4600b4",
         "productName": {
           "en": "Corn dog with sour cherry",
@@ -1992,10 +2216,18 @@
         "productImg": "corndog_cherry_h",
         "vega": false,
         "show": true,
-        "variants": [{ "qty": "6 pcs", "price": "16.99", "weight": "" }]
+        "variants": [
+          {
+            "qty": "6 pcs",
+            "price": "16.99",
+            "weight": ""
+          }
+        ]
       },
       {
-        "categoryId": "67246e97-f888-4ff0-ad0d-a82c5064c7ee",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38d"
+        },
         "productId": "509239bf-21da-4053-9f98-03a4b25f181d",
         "productName": {
           "en": "Donuts",
@@ -2018,7 +2250,9 @@
         ]
       },
       {
-        "categoryId": "67246e97-f888-4ff0-ad0d-a82c5064c7ee",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38d"
+        },
         "productId": "96222314-1770-4c34-b03a-ae55d963bcac",
         "productName": {
           "en": "Pancakes",
@@ -2043,14 +2277,18 @@
     ]
   },
   {
-    "categoryId": "e470794f-d122-4b4c-bc36-90d57992b425",
+    "categoryId": {
+      "$oid": "682b7165c28a3e5c9c0ce38e"
+    },
     "categoryName": {
       "en": "Other",
       "ua": "Інше"
     },
     "products": [
       {
-        "categoryId": "e470794f-d122-4b4c-bc36-90d57992b425",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38e"
+        },
         "productId": "27e0b404-ec0a-4c41-a9b6-f6d4295f47b4",
         "productName": {
           "en": "Stuffed Mackerel",
@@ -2067,7 +2305,9 @@
         "variants": []
       },
       {
-        "categoryId": "e470794f-d122-4b4c-bc36-90d57992b425",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38e"
+        },
         "productId": "fa6cb2f2-33d1-4ceb-a4ab-b158238820a4",
         "productName": {
           "en": "Chicken nuggets",
@@ -2090,7 +2330,9 @@
         ]
       },
       {
-        "categoryId": "e470794f-d122-4b4c-bc36-90d57992b425",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38e"
+        },
         "productId": "680efd1c-0227-493f-976f-e87854cb1cb9",
         "productName": {
           "en": "Fish nuggets",
@@ -2113,7 +2355,9 @@
         ]
       },
       {
-        "categoryId": "e470794f-d122-4b4c-bc36-90d57992b425",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38e"
+        },
         "productId": "308df3ed-a95a-4426-9334-c4b5a3e01ec6",
         "productName": {
           "en": "Potato croquettes",
@@ -2136,7 +2380,9 @@
         ]
       },
       {
-        "categoryId": "e470794f-d122-4b4c-bc36-90d57992b425",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38e"
+        },
         "productId": "944030f4-514b-4bab-986a-2745612b35b2",
         "productName": {
           "en": "Cheese potato croquettes",
@@ -2159,7 +2405,9 @@
         ]
       },
       {
-        "categoryId": "e470794f-d122-4b4c-bc36-90d57992b425",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38e"
+        },
         "productId": "2661fd4b-146e-4377-8177-01fa583935a0",
         "productName": {
           "en": "Cheese sticks",
@@ -2182,7 +2430,9 @@
         ]
       },
       {
-        "categoryId": "e470794f-d122-4b4c-bc36-90d57992b425",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38e"
+        },
         "productId": "3ff4aec2-1b1c-4253-aa4c-3a3571a4780f",
         "productName": {
           "en": "Meatball soup",
@@ -2205,7 +2455,9 @@
         ]
       },
       {
-        "categoryId": "e470794f-d122-4b4c-bc36-90d57992b425",
+        "categoryId": {
+          "$oid": "682b7165c28a3e5c9c0ce38e"
+        },
         "productId": "96bb27d4-fa10-41d8-a308-e42a1fd645ca",
         "productName": {
           "en": "Red borscht",
